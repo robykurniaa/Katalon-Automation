@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>059 Scan Voucher - Validate View Voucher</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9e9682c-8ee7-4490-b1bf-8c6e6e3e2128</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2210860e-29fe-49e2-ba42-05094ca60b31</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>2210860e-29fe-49e2-ba42-05094ca60b31</id>
+      <masked>false</masked>
+      <name>notChecked</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Purchase Limited Offer 51 Cities using Insufficient Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c49c4761-e89c-454b-a7ff-986a24700cd3</testCaseGuid>
+</TestCaseEntity>

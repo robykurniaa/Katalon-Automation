@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard - Validate Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ef5ef4b-bcd1-42f5-9b95-d7374c435c63</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c766331f-c838-4925-87dd-0bca42c7ccae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>c766331f-c838-4925-87dd-0bca42c7ccae</id>
+      <masked>false</masked>
+      <name>notChecked</name>
+   </variable>
+</TestCaseEntity>

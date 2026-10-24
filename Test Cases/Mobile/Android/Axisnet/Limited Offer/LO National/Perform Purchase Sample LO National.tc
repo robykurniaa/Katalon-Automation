@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Sample LO National</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3848601-d0d4-463d-a06c-9ad2c38f6e7b</testCaseGuid>
+</TestCaseEntity>

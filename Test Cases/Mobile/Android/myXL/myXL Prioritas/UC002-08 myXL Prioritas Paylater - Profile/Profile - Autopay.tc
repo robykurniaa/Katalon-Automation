@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profile - Autopay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3bf76958-e85d-4c31-8bf8-a9d4a9fc81f9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validation Convert Pulsa to Invalid MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7620937d-aa45-4510-9fa8-76227878d51b</testCaseGuid>
+</TestCaseEntity>

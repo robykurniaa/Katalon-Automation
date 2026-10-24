@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>txt_Profile_Username_axiser</name>
+   <tag></tag>
+   <elementGuidId>a1153834-c365-40d3-afa0-d393992b57ba</elementGuidId>
+   <origin>STUDIOASSIST</origin>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locatorCollection>
+      <entry>
+         <key>ID</key>
+         <value>com.axis.net:id/usernameTv</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ID</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>

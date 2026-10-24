@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>115 XL Care - Validate Search Question</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>959580fe-fe14-4a44-8b40-27af193c7337</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8fe531ae-c492-47fd-813c-5d1f2f44b9dc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>8fe531ae-c492-47fd-813c-5d1f2f44b9dc</id>
+      <masked>false</masked>
+      <name>notChecked</name>
+   </variable>
+</TestCaseEntity>

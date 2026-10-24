@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Satu Fiber</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64da82ab-3338-45cf-b7f5-52a8a9a6dfa6</testCaseGuid>
+</TestCaseEntity>

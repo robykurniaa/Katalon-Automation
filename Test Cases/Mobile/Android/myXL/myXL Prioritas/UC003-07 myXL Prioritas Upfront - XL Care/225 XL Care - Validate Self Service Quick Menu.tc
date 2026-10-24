@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>225 XL Care - Validate Self Service Quick Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40c3236e-ad32-41b7-bbad-1cd8a258077b</testCaseGuid>
+</TestCaseEntity>

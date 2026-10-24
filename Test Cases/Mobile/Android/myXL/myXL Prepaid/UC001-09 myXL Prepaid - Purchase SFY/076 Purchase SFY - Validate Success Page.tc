@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>076 Purchase SFY - Validate Success Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98dfdb49-1699-4735-9af3-125a4ddebc98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>231dd3fc-d939-4f9b-b088-c920435a2852</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>231dd3fc-d939-4f9b-b088-c920435a2852</id>
+      <masked>false</masked>
+      <name>notChecked</name>
+   </variable>
+</TestCaseEntity>

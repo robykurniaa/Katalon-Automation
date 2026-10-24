@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007 Login - Validate Resend OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7d56055-275f-45f0-af21-13d122bc4b45</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002 Dashboard - Validate Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>feb3a4a3-ae76-4740-8a4c-1840cc7886bd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6ef8a53-d866-4a15-8ebf-0ab7bf349342</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>d6ef8a53-d866-4a15-8ebf-0ab7bf349342</id>
+      <masked>false</masked>
+      <name>notChecked</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004 Login - Validate Login using Cancelled MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27e0e820-47bd-4888-983b-d0f87422c2e0</testCaseGuid>
+</TestCaseEntity>

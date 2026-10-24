@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Regression - Prepaid Enterprise</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd90220e-2db7-43cc-9b27-369e5557e595</testCaseGuid>
+</TestCaseEntity>

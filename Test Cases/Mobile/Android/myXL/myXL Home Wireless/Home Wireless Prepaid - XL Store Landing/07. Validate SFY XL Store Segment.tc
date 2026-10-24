@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07. Validate SFY XL Store Segment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fc42b0e-56a9-418b-a4bd-6bb940d1440e</testCaseGuid>
+</TestCaseEntity>

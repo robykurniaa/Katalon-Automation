@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>184 Profile - Validate Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c817c0d-6d17-42f0-b4d4-e17c1fd26769</testCaseGuid>
+</TestCaseEntity>

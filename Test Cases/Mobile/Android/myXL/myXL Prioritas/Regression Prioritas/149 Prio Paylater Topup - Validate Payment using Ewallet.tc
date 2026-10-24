@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>149 Prio Paylater Topup - Validate Payment using Ewallet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4926cdec-2b11-4a94-80bf-de4ce44e2798</testCaseGuid>
+</TestCaseEntity>

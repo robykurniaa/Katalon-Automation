@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDD-UC001-01 myXL Prepaid - Onboarding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b253005c-2f51-44dd-8482-16d8d9b52d0f</testCaseGuid>
+</TestCaseEntity>

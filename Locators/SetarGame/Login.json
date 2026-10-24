@@ -1,0 +1,61 @@
+{
+"Login - Description": {
+      "android": "",
+      "ios": "",
+      "web":"//h1[normalize-space()='Belanja Game Lebih Mudah']"
+    },
+"Login Button": {
+      "android": "",
+      "ios": "",
+      "web":"//button[normalize-space()='Login']"
+    },   
+"Register Button": {
+      "android": "",
+      "ios": "",
+      "web":"//button[normalize-space()='Register']"
+    },  
+"Input Number": {
+      "android": "",
+      "ios": "",
+      "web":"//input[@type='number']"
+    },
+"Input Password": {
+      "android": "",
+      "ios": "",
+      "web":"//input[@type='password']"
+    },
+"CheckBox": {
+      "android": "",
+      "ios": "",
+      "web":"//input[@type='checkbox']"
+    },
+"Forgot Password": {
+      "android": "",
+      "ios": "",
+      "web":"//a[@href='/auth/forgot-password']"
+    },  
+"Register": {
+      "android": "",
+      "ios": "",
+      "web":" //a[@href='/auth/register']"
+    }, 
+"Button Lanjut": {
+      "android": "",
+      "ios": "",
+      "web":"//button[span[text()='Lanjut']]"
+    }, 
+ "Input OTP": {
+      "android": "",
+      "ios": "",
+      "web":"//input[contains(@class, 'vi')]"
+    },
+ "Toast Message": {
+      "android": "",
+      "ios": "",
+      "web":"//div[@class='content']"
+    },
+"Form Login Title": {
+  	"web": "//h4[text()='Login Grosir Game Token']"
+	}
+ }
+ 

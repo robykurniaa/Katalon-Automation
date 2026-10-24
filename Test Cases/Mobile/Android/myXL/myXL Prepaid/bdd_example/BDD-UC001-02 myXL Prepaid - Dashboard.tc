@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDD-UC001-02 myXL Prepaid - Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28f1e896-7a46-4881-be25-7c929961e9aa</testCaseGuid>
+</TestCaseEntity>

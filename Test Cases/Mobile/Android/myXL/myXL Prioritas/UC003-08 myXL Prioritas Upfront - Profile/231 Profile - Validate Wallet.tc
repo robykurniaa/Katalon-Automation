@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>231 Profile - Validate Wallet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0b43dc7-9eff-44f5-91e3-4e013fcd5c40</testCaseGuid>
+</TestCaseEntity>

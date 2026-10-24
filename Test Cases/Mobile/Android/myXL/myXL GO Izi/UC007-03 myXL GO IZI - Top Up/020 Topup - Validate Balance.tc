@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>020 Topup - Validate Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>883a3166-2c9e-442f-a13b-2fc04d9ad1e9</testCaseGuid>
+</TestCaseEntity>

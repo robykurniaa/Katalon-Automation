@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 Login using Cancelled MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>662d7ffe-7897-4ac9-9dcd-0c9353ebfd40</testCaseGuid>
+</TestCaseEntity>

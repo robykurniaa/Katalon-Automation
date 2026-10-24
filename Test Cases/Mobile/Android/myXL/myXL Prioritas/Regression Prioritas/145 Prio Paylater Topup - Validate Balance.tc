@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>145 Prio Paylater Topup - Validate Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2fa7777-feeb-4053-8fd5-a8a103682af0</testCaseGuid>
+</TestCaseEntity>

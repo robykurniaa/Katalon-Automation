@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 Login - Validate CVP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d37e0b55-c7c6-430a-b748-b0671f06e177</testCaseGuid>
+</TestCaseEntity>

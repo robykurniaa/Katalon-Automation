@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>197 Dashboard - Validate Inbox</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>440af69a-f678-48d5-8039-aca7a443a50e</testCaseGuid>
+</TestCaseEntity>

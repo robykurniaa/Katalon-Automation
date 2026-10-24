@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006 Login - Validate Login using Prepaid MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>400ebbaf-0835-4443-ac88-d311ed8241d9</testCaseGuid>
+</TestCaseEntity>

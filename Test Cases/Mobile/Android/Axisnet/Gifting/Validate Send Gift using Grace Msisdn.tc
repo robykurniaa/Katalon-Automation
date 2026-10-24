@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Send Gift using Grace Msisdn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51b1a6fd-aa4b-4eb8-a98e-1478f62cba55</testCaseGuid>
+</TestCaseEntity>

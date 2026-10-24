@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>133 Login - Validate Login using Brand Porta MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>609a9cfc-372d-4f0a-9167-9a5d364dafca</testCaseGuid>
+</TestCaseEntity>

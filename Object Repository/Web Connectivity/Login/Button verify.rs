@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button verify</name>
+   <tag></tag>
+   <elementGuidId>cd9130ff-b93d-4876-abec-ded760f57a04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.px-4.btn.btn-primary.btn-primary-xl.btn.btn-block.button-login.disabled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Verify OTP&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6c0fe1cf-fa1b-49f7-a8d5-4390db0df573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e23a75f7-c0a7-42b3-a5e9-bb83054a1d62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 btn btn-primary btn-primary-xl btn btn-block button-login disabled</value>
+      <webElementGuid>ace8f33d-fd1e-4b28-a18b-b45a70bd3ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify OTP</value>
+      <webElementGuid>81ff9265-6d32-4690-a6e0-27867cbc1ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-login&quot;]/div[@class=&quot;wrapper-login-right&quot;]/div[@class=&quot;login-area&quot;]/div[@class=&quot;login-box&quot;]/form[@class=&quot;login-box-content&quot;]/div[@class=&quot;otp-form&quot;]/div[@class=&quot;otp-input-group-custom&quot;]/button[@class=&quot;px-4 btn btn-primary btn-primary-xl btn btn-block button-login disabled&quot;]</value>
+      <webElementGuid>77d4b6d2-5f97-44ca-95b1-1bc6800aaed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>1e7625f8-1741-4fa2-bddf-eb7a051a631c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/form/div[2]/div/button</value>
+      <webElementGuid>a2106ff9-0615-48c1-80c0-cc54d710fb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend'])[1]/preceding::button[1]</value>
+      <webElementGuid>ccf2be8d-3db0-470d-98df-a4275ec36fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need support?'])[1]/preceding::button[2]</value>
+      <webElementGuid>2acda67a-ab41-4abf-b0b4-302592a3f169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verify OTP']/parent::*</value>
+      <webElementGuid>f10726c4-7e34-4b74-ab9f-2a8b4f38df95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>b55c2258-f565-4cc5-9494-cbe4311c7863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Verify OTP' or . = 'Verify OTP')]</value>
+      <webElementGuid>3673e469-6e42-4e48-aa2a-77caa7a081af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

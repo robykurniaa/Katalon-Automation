@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>037 Share Balance - Validate Input Cancelled MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac870cdf-a5e9-4ab0-bd5c-3eb9968208b5</testCaseGuid>
+</TestCaseEntity>

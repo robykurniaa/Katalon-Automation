@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>217 XL Store - Validate SFY Showing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8d5b15b-482e-4a96-bd8b-b3c01e0ca27c</testCaseGuid>
+</TestCaseEntity>

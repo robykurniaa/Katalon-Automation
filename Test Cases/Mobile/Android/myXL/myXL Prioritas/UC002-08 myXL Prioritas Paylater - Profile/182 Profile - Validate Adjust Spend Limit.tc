@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>182 Profile - Validate Adjust Spend Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ab2335d-c331-42ce-8695-b281cc5ee514</testCaseGuid>
+</TestCaseEntity>

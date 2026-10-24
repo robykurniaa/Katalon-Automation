@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Send Gifting to Invalid Msisdn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf708b93-5435-4ce3-acc6-f299ecf7a458</testCaseGuid>
+</TestCaseEntity>

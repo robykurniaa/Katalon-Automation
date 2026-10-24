@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Success Purchase Limited Offer Nasional using Shopeepay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b2b7a9a-b964-4b5f-9aac-a527856f1570</testCaseGuid>
+</TestCaseEntity>

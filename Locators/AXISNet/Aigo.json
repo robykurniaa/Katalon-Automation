@@ -1,0 +1,23 @@
+{
+"Button - Aktfikan Voucher": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Aigo/Button - AKTIFKAN VOUCHER",
+      "ios": "",
+      "web":""
+    },
+"Button - Lanjut": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Aigo/Button - LANJUT",
+      "ios": "",
+      "web":""
+    },   
+"Aigo Text Field": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Aigo/Text Field - Input Aigo Code",
+      "ios": "",
+      "web":""
+    },  
+"Aigo Text Not Valid": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Aigo/Aigo - Voucher tidak valid",
+      "ios": "",
+      "web":""
+    },
+ }
+ 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Create Order Warnet Regular using Multipayment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abc471b1-75fd-4f2b-b73f-943f89fc90a0</testCaseGuid>
+</TestCaseEntity>

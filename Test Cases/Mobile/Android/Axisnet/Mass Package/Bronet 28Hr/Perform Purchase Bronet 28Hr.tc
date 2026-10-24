@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Bronet 28Hr</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea9bed23-9229-437a-bd62-378fcba68e33</testCaseGuid>
+</TestCaseEntity>

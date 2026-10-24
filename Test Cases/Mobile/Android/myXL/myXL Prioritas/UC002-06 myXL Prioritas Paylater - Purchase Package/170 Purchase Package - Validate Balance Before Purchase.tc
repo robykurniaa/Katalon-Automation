@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>170 Purchase Package - Validate Balance Before Purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f25b5dd-fae8-4a1a-be6e-f2203e19a5e1</testCaseGuid>
+</TestCaseEntity>

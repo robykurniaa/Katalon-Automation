@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>144 Prio Paylater Dashboard - Validate Quicklink Clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a838f2ef-652d-42a2-a269-3636e8a23d6b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Byop Custom MCCM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ebf5b9a-7c73-4e20-80c0-984ae287a0dc</testCaseGuid>
+</TestCaseEntity>

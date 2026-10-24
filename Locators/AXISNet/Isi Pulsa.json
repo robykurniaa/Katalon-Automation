@@ -1,0 +1,23 @@
+{
+"Top Up 25K": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Pulsa/Top Up Denom - 25.000",
+      "ios": "",
+      "web":""
+    },
+"Top Up 50K": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Pulsa/Top Up Denom - 50.000",
+      "ios": "",
+      "web":""
+    },
+"Top Up 100K": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Pulsa/Top Up Denom - 100.000",
+      "ios": "",
+      "web":""
+    },
+"Isi Pulsa Payment Method": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Pulsa/Isi Pulsa - Payment Method",
+      "ios": "",
+      "web":""
+    }
+    
+ }

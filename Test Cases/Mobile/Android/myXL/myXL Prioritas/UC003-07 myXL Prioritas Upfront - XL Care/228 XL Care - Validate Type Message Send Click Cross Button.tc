@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>228 XL Care - Validate Type Message Send Click Cross Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce906ecd-5b32-4c63-94b8-085dc24ec86e</testCaseGuid>
+</TestCaseEntity>

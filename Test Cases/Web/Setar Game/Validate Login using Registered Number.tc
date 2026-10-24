@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Login using Registered Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24f8adec-dd7c-49c0-b2d6-5c9e3b4fafb3</testCaseGuid>
+</TestCaseEntity>

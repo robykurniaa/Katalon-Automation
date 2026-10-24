@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>181 Prio Paylater Profile - Validate Roaming Service</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18c6072b-c370-4b26-a23f-d243e64dfff5</testCaseGuid>
+</TestCaseEntity>

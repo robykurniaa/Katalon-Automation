@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Regression - Prio Upfront</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d472c2b-acc2-43cb-9d91-a01ee16cac56</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Warnet Unlimited using E-Wallet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62fa9513-aa07-49c9-998f-0af7a0531b2d</testCaseGuid>
+</TestCaseEntity>

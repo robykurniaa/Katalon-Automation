@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>img_Profile_BackIcon</name>
+   <tag></tag>
+   <elementGuidId>0f972439-1865-4ac6-a05c-d88a428009b7</elementGuidId>
+   <origin>STUDIOASSIST</origin>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locatorCollection>
+      <entry>
+         <key>ID</key>
+         <value>com.axis.net:id/backIv</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ID</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>

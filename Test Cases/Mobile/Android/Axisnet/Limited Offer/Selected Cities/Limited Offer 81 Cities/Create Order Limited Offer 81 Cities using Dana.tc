@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Limited Offer 81 Cities using Dana</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2b0229f-89c7-4397-b6f8-86941379bfbf</testCaseGuid>
+</TestCaseEntity>

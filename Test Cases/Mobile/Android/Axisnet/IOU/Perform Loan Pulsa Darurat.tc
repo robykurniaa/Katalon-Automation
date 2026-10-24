@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Loan Pulsa Darurat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3165f2c5-3714-48b8-9f1f-98b77326f9a1</testCaseGuid>
+</TestCaseEntity>

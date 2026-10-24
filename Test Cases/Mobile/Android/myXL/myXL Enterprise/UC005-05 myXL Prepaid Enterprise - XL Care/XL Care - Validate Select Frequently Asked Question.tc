@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XL Care - Validate Select Frequently Asked Question</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d9f26b0-c789-41d3-94c7-8b9e18ced9b3</testCaseGuid>
+</TestCaseEntity>

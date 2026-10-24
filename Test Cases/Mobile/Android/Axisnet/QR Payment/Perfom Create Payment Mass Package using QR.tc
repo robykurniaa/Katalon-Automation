@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perfom Create Payment Mass Package using QR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b57421d4-b1f6-443d-ae6c-19e005cfacea</testCaseGuid>
+</TestCaseEntity>

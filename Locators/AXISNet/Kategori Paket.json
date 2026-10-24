@@ -1,0 +1,53 @@
+{
+"Paket List-Internet": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - Internet",
+      "ios": "",
+      "web":""
+    },
+"Paket List-Internet Promo": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - Internet Promo",
+      "ios": "",
+      "web":""
+    },
+"Paket List-Teng-Go": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - TENG-GO",
+      "ios": "",
+      "web":""
+    },
+    
+"Paket List-Boostr": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - Boostr",
+      "ios": "",
+      "web":""
+    },
+"Paket List-Masa Aktif": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - Masa Aktif",
+      "ios": "",
+      "web":""
+    },
+ "Paket List-Axis Zone": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - AXIS Zone",
+      "ios": "",
+      "web":""
+    },
+ "Paket List-Lifestyle": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - Lifestyle",
+      "ios": "",
+      "web":""
+    },        
+"Paket List-Telp Sms": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - Telp  SMS",
+      "ios": "",
+      "web":""
+    },
+"Paket List-Bronet": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Bronet/Kategori - Bronet",
+      "ios": "",
+      "web":""
+    },
+"Paket List-Roaming": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Paket List/Paket List - Roaming",
+      "ios": "",
+      "web":""
+    }     
+ }

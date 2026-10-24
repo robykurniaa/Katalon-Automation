@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>142 Prio Paylater Dashboard - Validate Quota Summary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>450dbdc5-5b87-4755-acf9-91e599267959</testCaseGuid>
+</TestCaseEntity>

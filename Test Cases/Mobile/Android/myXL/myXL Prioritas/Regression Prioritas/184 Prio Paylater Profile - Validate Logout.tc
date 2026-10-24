@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>184 Prio Paylater Profile - Validate Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a7649d5-1698-4ca4-891e-49d2acc58b21</testCaseGuid>
+</TestCaseEntity>

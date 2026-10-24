@@ -1,0 +1,110 @@
+{
+  "LO77": [
+    {
+      "name": "BOOSTR KUOTA UTAMA 3GB 7hr",
+      "price": "Rp7.500"
+    },
+    {
+      "name": "BRONET SOSMED 9GB 3hr",
+      "price": "Rp10.500"
+    },
+    {
+      "name": "BRONET 24JAM 8GB 7HR",
+      "price": "Rp21.500"
+    },
+    {
+      "name": "BRONET 24Jam 16GB 28hr",
+      "price": "Rp49.500"
+    }
+  ],
+  "LO63": [
+    {
+      "name": "BOOSTR KUOTA UTAMA 3GB 7hr",
+      "price": "Rp8.000"
+    },
+    {
+      "name": "BRONET 24JAM 8GB 7HR",
+      "price": "Rp15.000"
+    },
+    {
+      "name": "BRONET 10GB 28hr Sulawesi",
+      "price": "Rp20.000"
+    },
+    {
+      "name": "BRONET 24Jam 16GB 28hr",
+      "price": "Rp25.000"
+    }
+  ],
+  "LO217": [
+    {
+      "name": "BOOSTR KUOTA UTAMA 5GB 7hr",
+      "price": "Rp12.675"
+    },
+    {
+      "name": "BRONET SOSMED 9GB 3hr",
+      "price": "Rp5.000"
+    },
+    {
+      "name": "BRONET 24JAM 8GB 7HR",
+      "price": "Rp15.000"
+    },
+    {
+      "name": "BRONET PLUS 25GB 28hr",
+      "price": "Rp28.000"
+    }
+  ],
+  "LO22": [
+    {
+      "name": "BOOSTR KUOTA UTAMA 5GB 7hr",
+      "price": "Rp12.675"
+    },
+    {
+      "name": "BRONET SOSMED 9GB 3hr",
+      "price": "Rp5.000"
+    },
+    {
+      "name": "BRONET 24JAM 8GB 7HR",
+      "price": "Rp15.000"
+    },
+    {
+      "name": "BRONET PLUS 25GB 30hr",
+      "price": "Rp30.000"
+    }
+  ],
+  "LO3": [
+    {
+      "name": "BRONET 15GB 14hr",
+      "price": "Rp35.000"
+    },
+    {
+      "name": "BRONET PLUS 24GB 28hr",
+      "price": "Rp60.000"
+    },
+    {
+      "name": "BRONET GO 29GB 14hr",
+      "price": "Rp50.000"
+    }
+  ],
+ "LO72": [
+    {
+      "name": "BRONET PLUS 30GB 28hr",
+      "price": "Rp70.000"
+    },
+    {
+      "name": "BRONET 8GB 14hr",
+      "price": "Rp25.000"
+    },
+    {
+      "name": "BRONET 23GB 7hr",
+      "price": "Rp33.800"
+    },
+     {
+      "name": "BRONET 6GB 1hr",
+      "price": "Rp7.200"
+    },
+    {
+      "name": "BRONET 12.5GB 3hr",
+      "price": "Rp16.100"
+    }
+  ]
+}

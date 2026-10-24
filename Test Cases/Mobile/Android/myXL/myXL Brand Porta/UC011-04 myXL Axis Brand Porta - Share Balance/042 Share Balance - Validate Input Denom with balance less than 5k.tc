@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>042 Share Balance - Validate Input Denom with balance less than 5k</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1758b87-51ac-4caf-aa0f-847318bf98a0</testCaseGuid>
+</TestCaseEntity>

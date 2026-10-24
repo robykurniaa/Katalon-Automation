@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>294 OnBoarding - Validate Login using AXIS MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d793ad4-c747-4454-b6c6-fae66245dcf0</testCaseGuid>
+</TestCaseEntity>

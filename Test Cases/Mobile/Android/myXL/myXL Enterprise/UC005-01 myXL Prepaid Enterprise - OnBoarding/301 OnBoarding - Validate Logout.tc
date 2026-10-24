@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>301 OnBoarding - Validate Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46ca122c-61ff-45d2-b474-3e1fa995efc0</testCaseGuid>
+</TestCaseEntity>

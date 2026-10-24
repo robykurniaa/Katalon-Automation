@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>297 OnBoarding - Validate Resend OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91092f30-6570-45f7-a7ce-20e5e4db3cdd</testCaseGuid>
+</TestCaseEntity>

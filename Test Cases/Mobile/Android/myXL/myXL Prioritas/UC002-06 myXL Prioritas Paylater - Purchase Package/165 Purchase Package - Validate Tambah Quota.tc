@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>165 Purchase Package - Validate Tambah Quota</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f8ecb97-89d2-408c-8e43-223332fa3017</testCaseGuid>
+</TestCaseEntity>

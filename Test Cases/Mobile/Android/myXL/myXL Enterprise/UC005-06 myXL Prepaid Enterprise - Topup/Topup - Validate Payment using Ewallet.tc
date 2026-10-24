@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Topup - Validate Payment using Ewallet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2d8eb11-8eee-4b51-9bbd-8bffc59fd877</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>237 OnBoarding - Validate Login using Cancelled MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7e1942a-4cf8-4352-a1d2-eaca5cd932ab</testCaseGuid>
+</TestCaseEntity>

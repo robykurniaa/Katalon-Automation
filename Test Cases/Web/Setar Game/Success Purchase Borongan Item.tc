@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Purchase Borongan Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>469e3180-5dda-4048-97e0-4a84f3dbe436</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Purchase Limited Offer 217 Cities using Shopeepay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce7e32f2-cde5-4558-a48b-a98434163ba6</testCaseGuid>
+</TestCaseEntity>

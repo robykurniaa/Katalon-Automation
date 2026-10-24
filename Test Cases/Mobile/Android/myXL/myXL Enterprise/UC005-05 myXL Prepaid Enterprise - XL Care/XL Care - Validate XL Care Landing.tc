@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XL Care - Validate XL Care Landing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef104630-dbb4-4505-9b5f-14051849016b</testCaseGuid>
+</TestCaseEntity>

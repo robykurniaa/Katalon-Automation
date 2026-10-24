@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>300 OnBoarding - Validate Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c40c5f4a-5dd5-45bb-96c2-a1f9ef82dddf</testCaseGuid>
+</TestCaseEntity>

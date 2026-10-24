@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Jumat Baik using OVO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78713596-b7fa-4ea0-b40f-224c5f0a7985</testCaseGuid>
+</TestCaseEntity>

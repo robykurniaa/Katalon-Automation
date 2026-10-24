@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profile - Validate Trx History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad31ea5f-13c6-49b9-9972-f73d3ab56394</testCaseGuid>
+</TestCaseEntity>

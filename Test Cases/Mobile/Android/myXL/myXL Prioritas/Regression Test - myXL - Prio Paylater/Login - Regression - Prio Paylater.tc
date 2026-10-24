@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Regression - Prio Paylater</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>562b15be-ea44-484c-988c-977c3c64350c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>051 Share Package - Validate Input Brand Porta MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65234ea5-bf57-4858-9f51-98852da15124</testCaseGuid>
+</TestCaseEntity>

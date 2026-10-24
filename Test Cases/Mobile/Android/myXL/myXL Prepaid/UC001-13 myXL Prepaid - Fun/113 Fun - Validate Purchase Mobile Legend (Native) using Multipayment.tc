@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>113 Fun - Validate Purchase Mobile Legend (Native) using Multipayment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1518ac83-8fc8-4d45-8c96-b413837f58d8</testCaseGuid>
+</TestCaseEntity>

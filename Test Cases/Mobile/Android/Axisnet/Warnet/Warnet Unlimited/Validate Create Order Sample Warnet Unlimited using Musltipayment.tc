@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Create Order Sample Warnet Unlimited using Musltipayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed539eac-4b6e-4900-a61c-53da972729bc</testCaseGuid>
+</TestCaseEntity>

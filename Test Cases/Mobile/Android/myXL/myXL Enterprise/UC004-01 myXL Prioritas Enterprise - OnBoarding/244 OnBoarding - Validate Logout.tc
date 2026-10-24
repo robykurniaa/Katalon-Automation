@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>244 OnBoarding - Validate Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b097d29c-acf1-4fc3-b222-0ea8c8bfe22c</testCaseGuid>
+</TestCaseEntity>

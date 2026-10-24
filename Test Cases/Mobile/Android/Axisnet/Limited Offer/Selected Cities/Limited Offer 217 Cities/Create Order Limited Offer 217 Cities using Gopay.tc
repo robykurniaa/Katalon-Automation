@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Limited Offer 217 Cities using Gopay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>306fabb4-38fa-413f-b9b7-c11e2facfffd</testCaseGuid>
+</TestCaseEntity>

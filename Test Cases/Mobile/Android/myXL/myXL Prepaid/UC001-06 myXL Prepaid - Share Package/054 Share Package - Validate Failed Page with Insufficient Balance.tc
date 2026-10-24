@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>054 Share Package - Validate Failed Page with Insufficient Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80d7d81a-7600-4c36-a17b-61077bbd0616</testCaseGuid>
+</TestCaseEntity>

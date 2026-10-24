@@ -1,0 +1,27 @@
+{
+"First Time Introduction": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Convert Pulsa/Convert Pulsa - First Time Introduction",
+      "ios": "",
+      "web":""
+    },
+"Benefit Page": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Convert Pulsa/Text View - Ubah pulsa kamu jadi kuota",
+      "ios": "",
+      "web":""
+    },
+"Button Lanjutkan": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Convert Pulsa/Button Lanjutkan",
+      "ios": "",
+      "web":""
+    },
+"Pop Up Invalid Msisdn": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Convert Pulsa/Convert Pulsa - Invalid MSISDN Pop Up",
+      "ios": "",
+      "web":""
+    },
+"Button Kirim Ke Orang Lain": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Convert Pulsa/Convert Pulsa - Button KIRIM KE NOMOR LAIN",
+      "ios": "",
+      "web":""
+    },
+ }

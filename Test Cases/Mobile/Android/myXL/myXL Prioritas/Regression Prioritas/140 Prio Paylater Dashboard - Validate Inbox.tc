@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>140 Prio Paylater Dashboard - Validate Inbox</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54b91e8e-58fa-4335-b423-f635dbeca2ac</testCaseGuid>
+</TestCaseEntity>

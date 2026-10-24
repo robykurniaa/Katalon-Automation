@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Jumat Baik using Gopay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea36bb8a-73fd-4671-9868-c12dcf0ac5b7</testCaseGuid>
+</TestCaseEntity>

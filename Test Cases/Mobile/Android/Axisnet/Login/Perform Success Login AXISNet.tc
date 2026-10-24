@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Success Login AXISNet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b1bdfe8-0f24-4373-8f5d-7711b5ee4e72</testCaseGuid>
+</TestCaseEntity>

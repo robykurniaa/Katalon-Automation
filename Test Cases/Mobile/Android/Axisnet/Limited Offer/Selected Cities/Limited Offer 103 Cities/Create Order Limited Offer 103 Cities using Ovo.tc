@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Limited Offer 103 Cities using Ovo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>add9c5e4-24ea-477f-b00c-8e6012b5136a</testCaseGuid>
+</TestCaseEntity>

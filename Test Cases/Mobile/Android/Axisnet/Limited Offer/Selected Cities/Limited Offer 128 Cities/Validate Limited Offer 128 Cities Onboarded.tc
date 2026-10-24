@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Limited Offer 128 Cities Onboarded</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>478c4625-ddbe-442c-81bc-f9e0ba59b73d</testCaseGuid>
+</TestCaseEntity>

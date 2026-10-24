@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Transfer Balance to Valid MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a1e4b2e-27e8-4ed3-be54-98604b3392b5</testCaseGuid>
+</TestCaseEntity>

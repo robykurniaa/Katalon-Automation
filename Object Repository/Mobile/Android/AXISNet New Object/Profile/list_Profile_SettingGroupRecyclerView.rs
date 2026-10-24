@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>list_Profile_SettingGroupRecyclerView</name>
+   <tag></tag>
+   <elementGuidId>79e57122-9b7f-4f60-901a-760fa3edf12c</elementGuidId>
+   <origin>STUDIOASSIST</origin>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locatorCollection>
+      <entry>
+         <key>ID</key>
+         <value>com.axis.net:id/settingGroupRv</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ID</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>

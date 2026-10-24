@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002 Member - Group and Member (Accept Invitation)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47df9098-7e8b-4fd2-91dc-fa9013076460</testCaseGuid>
+</TestCaseEntity>

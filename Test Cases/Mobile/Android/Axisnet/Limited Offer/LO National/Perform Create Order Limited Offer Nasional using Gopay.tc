@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Create Order Limited Offer Nasional using Gopay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bef243c-f023-4e7b-8f21-522a91de1e73</testCaseGuid>
+</TestCaseEntity>

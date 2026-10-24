@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Limited Offer 125 Cities</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>efeff341-04a9-499b-abf0-95ba2fcfd760</testCaseGuid>
+</TestCaseEntity>

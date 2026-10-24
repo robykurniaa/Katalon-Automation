@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profile - Validate Account Info</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4827d7e4-08ac-4837-9350-cc9c265f3c99</testCaseGuid>
+</TestCaseEntity>

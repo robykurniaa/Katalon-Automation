@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>scroll_Profile_NestedScrollView</name>
+   <tag></tag>
+   <elementGuidId>d6866a90-1644-401e-b083-779820fd6c9f</elementGuidId>
+   <origin>STUDIOASSIST</origin>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locatorCollection>
+      <entry>
+         <key>ID</key>
+         <value>com.axis.net:id/nested_scroll_view</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ID</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>

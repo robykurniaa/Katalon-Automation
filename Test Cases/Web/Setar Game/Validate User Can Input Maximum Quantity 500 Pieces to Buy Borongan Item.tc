@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate User Can Input Maximum Quantity 500 Pieces to Buy Borongan Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71627a2e-e98d-4bf9-86d0-ec2d0e418806</testCaseGuid>
+</TestCaseEntity>

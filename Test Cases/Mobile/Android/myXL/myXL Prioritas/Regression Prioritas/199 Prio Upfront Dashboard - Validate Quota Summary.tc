@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>199 Prio Upfront Dashboard - Validate Quota Summary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33bf7d2b-32bc-4026-8370-1cbc4f1fed34</testCaseGuid>
+</TestCaseEntity>

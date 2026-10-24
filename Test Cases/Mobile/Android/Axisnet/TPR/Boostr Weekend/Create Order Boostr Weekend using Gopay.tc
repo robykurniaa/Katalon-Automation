@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Boostr Weekend using Gopay</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5efda7b-9977-4f91-9825-f8b394a6cc89</testCaseGuid>
+</TestCaseEntity>

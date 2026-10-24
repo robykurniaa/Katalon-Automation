@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 Parent A and B - Group and Member (Create Group and Add Member)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ba25237-c3b3-45f6-ab35-2ae6da0a3649</testCaseGuid>
+</TestCaseEntity>

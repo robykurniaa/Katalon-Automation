@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>180 Prio Paylater Profile - Validate Usage Protection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2abe38d-348d-4c32-b251-c2388f78f8d4</testCaseGuid>
+</TestCaseEntity>

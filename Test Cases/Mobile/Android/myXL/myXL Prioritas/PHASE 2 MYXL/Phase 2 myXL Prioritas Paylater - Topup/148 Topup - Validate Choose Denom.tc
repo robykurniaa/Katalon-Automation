@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>148 Topup - Validate Choose Denom</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64077f8a-c5d8-4331-a24e-18fb2233750a</testCaseGuid>
+</TestCaseEntity>

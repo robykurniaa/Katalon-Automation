@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>168 Purchase Package - Validate PDP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f99570fc-a3da-4908-8f41-262e6ea5892f</testCaseGuid>
+</TestCaseEntity>

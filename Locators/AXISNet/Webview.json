@@ -1,0 +1,82 @@
+{
+"Shopeepay - Button Bayar Sekarang": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Button - Bayar Sekarang",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 0": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 0",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 1": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 1",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 2": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 2",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 3": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard- 3",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 4": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 4",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 5": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 5",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 6": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 6",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 7": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 7",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 8": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 8",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Keyboard 9": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopee Keyboard - 9",
+      "ios": "",
+      "web":""
+    },
+"Shopeepay - Failed Pin": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Shopee Web View/Shopeepay - Masukkan PIN ShopeePay",
+      "ios": "",
+      "web":""
+    },
+"Dana - Bayar Pakai Dana": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Dana Web View/Button - BAYAR PAKAI DANA",
+      "ios": "",
+      "web":""
+    },
+"CheckBox Store": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Dana Web View/CheckBox - Jangan tanyakan lagi",
+      "ios": "",
+      "web":""
+    },
+"Dana - Button Bayar": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Dana Web View/Dana WebView Button - BAYAR",
+      "ios": "",
+      "web":""
+    },
+"Spay Internal App - Bayar Sekarang": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Isi Pulsa/Spay Internal App- Bayar Sekarang",
+      "ios": "",
+      "web":""
+    },    
+ }

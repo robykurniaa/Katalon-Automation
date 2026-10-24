@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XCP VIP PLP - 13.5GB - IDR 60.775</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b839b567-6e4a-49dd-85a0-d96d48b87eb0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>245 Dashboard - Validate PPS Balance, Credit Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a08abd0-e103-48f8-b2f6-96a4d505e9f0</testCaseGuid>
+</TestCaseEntity>

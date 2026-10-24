@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>201 Prio Upfront Dashboard - Validate Quick Link Clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e59344e1-e227-4333-87de-52528e58bb21</testCaseGuid>
+</TestCaseEntity>

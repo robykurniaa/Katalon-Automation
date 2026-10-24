@@ -1,0 +1,29 @@
+[
+    {
+        "name": "cf_clearance",
+        "value": "5UbQZ7lno2RW_YYCnx4L2dOI8N3..Rc09tl6vyA9KDQ-1777480983-1.2.1.1-sIku5c51ocVavSPYy6PJx2H64f1zt3J2wyephWqHZR8S9_kWuHJpZ6MqoZqpQcG6Km4FsHSqRwaY4TATgXKAkMtZDHWV4RmuqNaRxOoxS9EE7clH5MnpfFB7eTDZz2xMdo3eWEwFk0GKI7OQARiLCGuqTueJxcvIC1R8yiY8HTrrC2_NIYE8Xzx.ISSLhQ4KS_gMYVUXEGot1knbkw51iQCiipISNpoIKtbVgZ6iEUUt9nd88XRGB3v4hcJEtVH7rdqjZMlWgPO8r_nfuh7lbWriH2Xa2LTNrtZSVIO3dncrfQXooELj9xb8ydNXGK5wHcAI5pu4fRHGQF_5Zwc5vw",
+        "domain": ".xl.co.id",
+        "path": "/",
+        "expiry": 1809016982000,
+        "isSecure": true,
+        "isHttpOnly": true
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.1.931061809.1777480983",
+        "domain": ".xl.co.id",
+        "path": "/",
+        "expiry": 1812040983000,
+        "isSecure": false,
+        "isHttpOnly": false
+    },
+    {
+        "name": "_ga_0P7KWJMGKD",
+        "value": "GS2.1.s1777480983$o1$g1$t1777480991$j52$l0$h0",
+        "domain": ".xl.co.id",
+        "path": "/",
+        "expiry": 1812040991000,
+        "isSecure": false,
+        "isHttpOnly": false
+    }
+]

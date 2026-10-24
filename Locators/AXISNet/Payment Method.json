@@ -1,0 +1,72 @@
+{
+"Button Payment Method": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Button - Payment Method",
+      "ios": "",
+      "web":""
+    },
+"Payment Method Swipe Key": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Key Swipe Payment",
+      "ios": "",
+      "web":""
+    },  
+"Text View Insuf Balance Multipayment": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/TextView - Saldo Kamu Tidak Mencukupi",
+      "ios": "",
+      "web":""
+    }, 
+ "Button Lanjut Multipayment Insuff Balance": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Button - LANJUT",
+      "ios": "",
+      "web":""
+    }, 
+"Button Ubah Metode Aktivasi": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Button - UBAH METODE AKTIVASI",
+      "ios": "",
+      "web":""
+    },    
+"Payment Pulsa": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Payment Method - Pulsa",
+      "ios": "",
+      "web":""
+    },  
+"Payment Dana": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Payment Method - DANA",
+      "ios": "",
+      "web":""
+    },
+"Payment Gopay": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Payment Method - GOPAY",
+      "ios": "",
+      "web":""
+    },
+"Payment Shopeepay": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Payment Method - ShopeePay",
+      "ios": "",
+      "web":""
+    },
+"Payment Ovo": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Payment Method - OVO",
+      "ios": "",
+      "web":""
+    },
+"Payment Dana": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Payment Method - DANA",
+      "ios": "",
+      "web":""
+    },
+"Payment QR": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Payment Method - QRIS",
+      "ios": "",
+      "web":""
+    },
+"Ovo Text Field Msisdn": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Payment Method/Ovo Msisdn Text Field",
+      "ios": "",
+      "web":""
+    },
+"Payment Error Notification": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Notification/Button Close Notification",
+      "ios": "",
+      "web":""
+    }
+ }

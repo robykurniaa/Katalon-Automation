@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Byop TerVidio</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53ac12de-5d95-44ac-9e4f-2f4f23d72ec6</testCaseGuid>
+</TestCaseEntity>

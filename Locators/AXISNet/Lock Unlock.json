@@ -1,0 +1,27 @@
+{
+"Internet": {
+      "android": "//android.widget.CheckBox[@resource-id='com.axis.net:id/statusCb'][ancestor::*[@resource-id='com.axis.net:id/dataCv']]",
+      "ios": "",
+      "web":""
+    },
+"SMS": {
+      "android": "//android.widget.CheckBox[@resource-id='com.axis.net:id/statusCb'][ancestor::*[@resource-id='com.axis.net:id/smsCv']]",
+      "ios": "",
+      "web":""
+    },
+"Telepon": {
+      "android": "//android.widget.CheckBox[@resource-id='com.axis.net:id/statusCb'][ancestor::*[@resource-id='com.axis.net:id/voiceCv']]",
+      "ios": "",
+      "web":""
+    },
+"MBanking": {
+      "android": "//android.widget.CheckBox[@resource-id='com.axis.net:id/statusCb'][ancestor::*[@resource-id='com.axis.net:id/mbankingCv']]",
+      "ios": "",
+      "web":""
+    },
+"Message Success Lock Unlock": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Lock and Unlock/Message - Success Lock or Unlock Services",
+      "ios": "",
+      "web":""
+    },
+ }

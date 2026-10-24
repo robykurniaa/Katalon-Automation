@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>195 Login - Validate Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1dc4f45d-8dd2-4c82-9a97-09793856fa4b</testCaseGuid>
+</TestCaseEntity>

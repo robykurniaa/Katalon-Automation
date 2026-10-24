@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>049 Share Package - Validate Input Cancelled MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc3e177f-008f-4d5b-abe1-414522a6902f</testCaseGuid>
+</TestCaseEntity>

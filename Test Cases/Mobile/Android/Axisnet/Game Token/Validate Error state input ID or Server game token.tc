@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Error state input ID or Server game token</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73b91da5-ef49-4b45-9f78-1cc6314aeb6e</testCaseGuid>
+</TestCaseEntity>

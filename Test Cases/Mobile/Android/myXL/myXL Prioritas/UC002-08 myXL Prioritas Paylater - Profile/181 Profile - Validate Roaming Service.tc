@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>181 Profile - Validate Roaming Service</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7622908-e8c0-473f-b67e-bce7cae80ce3</testCaseGuid>
+</TestCaseEntity>

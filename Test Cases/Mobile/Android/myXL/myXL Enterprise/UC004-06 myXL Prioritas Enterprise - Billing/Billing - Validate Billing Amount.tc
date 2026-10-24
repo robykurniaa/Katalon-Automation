@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Billing - Validate Billing Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3e83100-c72d-4ace-8e6f-0a17175e9226</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>178 Prio Paylater Profile - Validate Trx History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32c6533e-2140-4eee-a813-9cbbc0118f8b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Purchase Boostr Weekend using ShopeePay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db67c02d-6d5c-4897-91c6-666b7740f603</testCaseGuid>
+</TestCaseEntity>

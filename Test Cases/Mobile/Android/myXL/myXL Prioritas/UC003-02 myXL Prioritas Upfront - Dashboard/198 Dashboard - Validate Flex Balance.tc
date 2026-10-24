@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>198 Dashboard - Validate Flex Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce8e14e9-4f23-4570-8128-2c35625322cf</testCaseGuid>
+</TestCaseEntity>

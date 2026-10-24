@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 Login - Validate Login using AXIS MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>589e3a31-bb00-4303-9e9b-e7f3ef4fd2dc</testCaseGuid>
+</TestCaseEntity>

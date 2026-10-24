@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>148 Prio Paylater Topup - Validate Choose Denom</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbb18917-0ab6-45ec-a912-c0879d769ab8</testCaseGuid>
+</TestCaseEntity>

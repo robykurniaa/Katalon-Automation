@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Rabu Rawit using OVO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1c54a99-ecb5-46b4-b8b8-aded560eadb8</testCaseGuid>
+</TestCaseEntity>

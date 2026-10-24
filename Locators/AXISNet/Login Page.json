@@ -1,0 +1,78 @@
+{
+"Lets Start Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Login/Login Page/Lets Start Button",
+      "ios": "",
+      "web":""
+    },
+    "Agree Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Popup Permission/Agree Button",
+      "ios": "",
+      "web":""
+    },
+    "MSISDN Field": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Login/Login Page/MSISDN Field",
+      "ios": "",
+      "web":""
+    },
+    "Login Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Login/Login Page/Login Button",
+      "ios": "",
+      "web":""
+    },
+     "OTP Field": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Login/Login Page/OTP Field",
+      "ios": "",
+      "web":""
+    },
+     "Continue Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Login/Login Page/Continue Button",
+      "ios": "",
+      "web":""
+    },
+"SNK Page": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/titleTv' and @text='SYARAT DAN KETENTUAN']",
+      "ios": "",
+      "web":""
+    },
+"Button Setuju": {
+      "android": "//android.widget.Button[@resource-id='com.axis.net:id/actionBtn' and @text='SETUJU']",
+      "ios": "",
+      "web":""
+    },
+"Inactive Msisdn": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Login/Text View - Inactive Msisdn",
+      "ios": "",
+      "web":""
+    }, 
+ "Error Wrong Msisdn": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Login/Error State - Wrong Msisdn",
+      "ios": "",
+      "web":""
+    }, 
+ "Error Less Than Msisdn 11 Digit": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Login/Error State - Msisdn Less Than 11-12 Digit",
+      "ios": "",
+      "web":""
+    },
+ "Verifikasi Biometrik Text": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Biometric/TextView - VERIFIKASI BIOMETRIK",
+      "ios": "",
+      "web":""
+    },
+ "OTP not Match": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Login/OTP Code not Matched",
+      "ios": "",
+      "web":""
+    },
+ "OTP Rejection": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Login/Login Page/OTP Rejection - Limit OTP",
+      "ios": "",
+      "web":""
+    },
+ "Ignore Biometrik": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Biometric/Button - LAIN KALI",
+      "ios": "",
+      "web":""
+    }     
+
+  }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Error State Wrong Input Msisdn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfad9f9d-483f-4b34-9dc5-08c8c83f066c</testCaseGuid>
+</TestCaseEntity>

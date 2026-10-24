@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>046 Share Balance - Validate Balance Increase - B Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44efcba5-feab-4f0b-9fb6-9f28bfad31d3</testCaseGuid>
+</TestCaseEntity>

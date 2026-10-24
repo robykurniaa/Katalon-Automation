@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validation Aigo Voucher Not Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>662dbdae-d424-4988-805b-abb21de5e7cf</testCaseGuid>
+</TestCaseEntity>

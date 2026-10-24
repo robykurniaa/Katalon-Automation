@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005 Validate Loan History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da3f2e5f-30d4-40c9-ab8a-f580de1870f7</testCaseGuid>
+</TestCaseEntity>

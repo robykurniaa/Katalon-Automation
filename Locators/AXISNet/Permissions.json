@@ -1,0 +1,27 @@
+{
+"Location": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pop Up Permissions/Permission Pop Up- Allow AXISnet to access this devices location",
+      "ios": "",
+      "web":""
+    },
+"Notification": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pop Up Permissions/Permission Pop Up - Allow AXISnet to send you notifications",
+      "ios": "",
+      "web":""
+    },
+"Phone Calls": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pop Up Permissions/Permission Pop Up - Allow AXISnet to make and manage phone calls",
+      "ios": "",
+      "web":""
+    },
+"Button Allow": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pop Up Permissions/Button Permission - Allow",
+      "ios": "",
+      "web":""
+    },
+"Button While using the App": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pop Up Permissions/Button Permission - While using the app",
+      "ios": "",
+      "web":""
+    },
+ }

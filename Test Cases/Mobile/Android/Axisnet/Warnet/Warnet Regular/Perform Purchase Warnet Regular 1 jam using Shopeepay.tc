@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Warnet Regular 1 jam using Shopeepay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5513d77e-5cfd-4b59-a02c-b5dfbf01ef19</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>000 Login - Prepaid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfea4ec5-ee8a-44f8-a9cc-87fa114d1e7d</testCaseGuid>
+</TestCaseEntity>

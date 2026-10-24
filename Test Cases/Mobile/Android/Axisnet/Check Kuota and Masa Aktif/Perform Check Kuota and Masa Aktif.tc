@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Check Kuota and Masa Aktif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e36ac34-b10b-4e87-aced-1c37dc310698</testCaseGuid>
+</TestCaseEntity>

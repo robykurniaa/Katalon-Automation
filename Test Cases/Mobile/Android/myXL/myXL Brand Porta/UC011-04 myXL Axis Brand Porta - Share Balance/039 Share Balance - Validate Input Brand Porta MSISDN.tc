@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>039 Share Balance - Validate Input Brand Porta MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56008822-cec6-499d-a16b-5b783ea7807f</testCaseGuid>
+</TestCaseEntity>

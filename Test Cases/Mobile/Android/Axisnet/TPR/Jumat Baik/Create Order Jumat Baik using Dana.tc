@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Jumat Baik using Dana</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96bea88d-a52f-49fc-a46d-9a6d94b63ba2</testCaseGuid>
+</TestCaseEntity>

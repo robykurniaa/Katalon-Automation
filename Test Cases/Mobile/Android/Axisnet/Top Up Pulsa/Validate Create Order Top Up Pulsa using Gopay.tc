@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Create Order Top Up Pulsa using Gopay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ad262fc-9d70-406f-926e-bcaea8a9402c</testCaseGuid>
+</TestCaseEntity>

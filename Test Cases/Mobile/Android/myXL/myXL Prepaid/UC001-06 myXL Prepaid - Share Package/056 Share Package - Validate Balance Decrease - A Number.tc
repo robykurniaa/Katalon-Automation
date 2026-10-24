@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>056 Share Package - Validate Balance Decrease - A Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>951bc0b8-312f-4be2-b367-8854bd364942</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Topup - Validate Topup History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39f8efa7-0c10-4e50-b84c-8fcf5ed2a7aa</testCaseGuid>
+</TestCaseEntity>

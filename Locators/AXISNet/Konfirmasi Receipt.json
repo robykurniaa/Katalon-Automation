@@ -1,0 +1,42 @@
+{
+"Button Konfirmasi": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Confirmation and Receipt/Button - KONFIRMASI",
+      "ios": "",
+      "web":""
+    },
+"Button in Receipt - Ke Home": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Confirmation and Receipt/Button in Receipt - KE HOME",
+      "ios": "",
+      "web":""
+    },
+"Push Notif Callback Transaction": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Confirmation and Receipt/Push Notif - Callback Transaction",
+      "ios": "",
+      "web":""
+    },
+"Synch Page": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Confirmation and Receipt/Text View - Synch Page",
+      "ios": "",
+      "web":""
+    },
+"Receipt Success": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Confirmation and Receipt/Text View - Transaksi Berhasil (Receipt Success)",
+      "ios": "",
+      "web":""
+    },
+"Receipt Progress": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Confirmation and Receipt/Text View - Receipt Progress Page",
+      "ios": "",
+      "web":""
+    },
+"Receipt Tenggo Pop Up": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Confirmation and Receipt/Receipt Tenggo Pop Up - Yuk, langsung play kuota kamu",
+      "ios": "",
+      "web":""
+    },
+"Text View Autorepurchase": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Journey Purchase Package/Autorepurchase Toggle Switch",
+      "ios": "",
+      "web":""
+    },
+}

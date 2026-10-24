@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>141 Prio Paylater Dashboard - Validate PPS Balance, Flex Balance, Credit Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>809ceda7-0607-410e-99b9-7b34eddebc80</testCaseGuid>
+</TestCaseEntity>

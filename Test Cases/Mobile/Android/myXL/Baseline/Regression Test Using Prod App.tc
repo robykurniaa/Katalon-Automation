@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Regression Test Using Prod App</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71f9e671-bdc9-4cc9-b528-4983cc2f55e7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Regression Test using Internal Beta App</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>414f9613-df8d-4858-b4fc-bba7edcef0c1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,82 @@
+{
+"Jumat Baik Tab": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/categoryTv' and @text='Jumat Baik']",
+      "ios": "",
+      "web":""
+    },
+"Rabu Rawit Tab": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/categoryTv' and @text='Rabu rawit']",
+      "ios": "",
+      "web":""
+    },
+"Boostr Weekend Tab": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/categoryTv' and @text='BOOSTR weekend']",
+      "ios": "",
+      "web":""
+    },
+"Bronet Tab": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Internet Tab/Internet Tab - Bronet",
+      "ios": "",
+      "web":""
+    },
+"Warnet Tab": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Internet Tab/Internet Tab - Warnet",
+      "ios": "",
+      "web":""
+    },
+"Warnet Unl 1 Jam": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/productNameTv' and contains(@text,'Warnet 1 Jam 1GB')]",
+      "ios": "",
+      "web":""
+    },
+"Warnet Unl 2 Jam": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/productNameTv' and contains(@text,'Warnet 2 Jam 1.5GB')]",
+      "ios": "",
+      "web":""
+    },
+"Warnet Unl 3 Jam": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/productNameTv' and contains(@text,'Warnet 2 Jam 3GB')]",
+      "ios": "",
+      "web":""
+    },
+"Warnet Unl 24 Jam": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Warnet/Warnet Unlimited/Warnet Unlimited 24 Jam",
+      "ios": "",
+      "web":""
+    },
+"Warnet Unl 48 Jam": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Warnet/Warnet Unlimited/Warnet Unlimited 48 Jam",
+      "ios": "",
+      "web":""
+    },
+"Warnet Unl 72 Jam": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Warnet/Warnet Unlimited/Warnet Unlimited 72 Jam",
+      "ios": "",
+      "web":""
+    },
+"Warnet Regular 1 Jam": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Warnet/Warnet Regular/Warnet 1 Jam 1GB",
+      "ios": "",
+      "web":""
+    },
+"Warnet Regular 2 Jam": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Warnet/Warnet Regular/Warnet 2 Jam 1.5GB DISC 40",
+      "ios": "",
+      "web":""
+    },
+"Warnet Regular 3 Jam": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Warnet/Warnet Regular/Warnet 3 Jam 3GB DISC 40",
+      "ios": "",
+      "web":""
+    },
+"Bronet Sosmed 5GB 3Hr": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Bronet/Bronet Sosmed/Bronet Sosmed 5GB 3hr",
+      "ios": "",
+      "web":""
+    }, 
+"Swipe Key Pkg Tab": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Bronet/Swipe Key Tab Internet",
+      "ios": "",
+      "web":""
+    },    
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>187 Login - Validate Login using Invalid MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>585fa7c8-d6fb-4b86-8a38-14b1475196a4</testCaseGuid>
+</TestCaseEntity>

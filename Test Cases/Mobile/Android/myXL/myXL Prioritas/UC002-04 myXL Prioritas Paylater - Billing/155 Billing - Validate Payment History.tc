@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>155 Billing - Validate Payment History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1af05043-afe6-4729-8c74-302b17ac3e4d</testCaseGuid>
+</TestCaseEntity>

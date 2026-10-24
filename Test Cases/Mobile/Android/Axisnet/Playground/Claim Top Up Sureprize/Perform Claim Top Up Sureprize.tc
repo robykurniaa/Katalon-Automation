@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Claim Top Up Sureprize</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52b42685-2ebb-4b35-b442-41336fb09e90</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>143 Dashboard - Validate Quota Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de098854-3e0d-45f9-9f27-d848f0c31085</testCaseGuid>
+</TestCaseEntity>

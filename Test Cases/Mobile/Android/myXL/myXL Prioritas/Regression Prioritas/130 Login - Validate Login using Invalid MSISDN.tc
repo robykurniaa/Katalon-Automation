@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>130 Login - Validate Login using Invalid MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e0e68b5-37d5-41c1-8613-122ec8caaacf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>040 Share Balance - Validate Input Prepaid MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c6918ff-3d03-4d0e-96ae-4012087e51a4</testCaseGuid>
+</TestCaseEntity>

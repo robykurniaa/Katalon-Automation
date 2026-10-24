@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>221 XL Store - Validate Payment using Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06af10ce-a31c-4831-bfbc-f13506e014b0</testCaseGuid>
+</TestCaseEntity>

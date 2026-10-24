@@ -1,0 +1,38 @@
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import axisnet_support.AppManagement as Login
+import support.CommonUtils as CommonUtils
+import axisnet_support.LocatorPaths as Locator
+import pages.DashboardPage as DashboardPage
+import pages.PurchaseJourney as PurchaseJourney
+import axisnet_support.AppManagement
+
+AppManagement.openApplication()
+if (CommonUtils.isElementExist(Locator.SERVER_PAGE, 3)) {
+	CommonUtils.hit(Locator.SPINNER_MODE)
+	CommonUtils.hit(Locator.CHECKBOX_UAT_MODE)
+	CommonUtils.hit(Locator.BUTTON_PILIH_SERVER)
+}
+
+'Tap Start'
+CommonUtils.handleOptionalElement(Locator.AXIS_LETS_START_BUTTON, { CommonUtils.hit(Locator.AXIS_LETS_START_BUTTON) }, 15)
+
+'Check Pop Up Permission'
+CommonUtils.handleOptionalElement(Locator.AXIS_AGREE_PERMISSION_BUTTON, {  CommonUtils.hit(Locator.AXIS_AGREE_PERMISSION_BUTTON) }, 5)
+
+'Fill Msisdn'
+CommonUtils.setText(Locator.MSISDN_FIELD, '083125750052')
+
+'Tap Login'
+CommonUtils.tap(Locator.AXIS_LOGIN_BUTTON)
+
+'Verify OTP Page'
+CommonUtils.waitForElement(Locator.OTP_FIELD)
+
+'Fill OTP'
+CommonUtils.setText(Locator.OTP_FIELD, 'MANTAP')
+
+'Tap Continue Button OTP'
+CommonUtils.hit(Locator.AXIS_CONTINUE_BUTTON)
+
+CommonUtils.isElementExist(Locator.OTP_NOT_MATCH)
+

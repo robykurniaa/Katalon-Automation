@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>110 Fun - Click Mobile legend without input userid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fc198d2-c8c6-4c16-b5bb-ead1c89ec06f</testCaseGuid>
+</TestCaseEntity>

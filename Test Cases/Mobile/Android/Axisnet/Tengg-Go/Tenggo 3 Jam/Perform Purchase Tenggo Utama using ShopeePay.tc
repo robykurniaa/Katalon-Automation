@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Tenggo Utama using ShopeePay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2578bc3-77c5-47a9-a291-c1e34fb9768f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>053 Share Package - Validate Choose Package XCM (Gift)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28591c3e-b10e-4a22-bf0c-782daa87b355</testCaseGuid>
+</TestCaseEntity>

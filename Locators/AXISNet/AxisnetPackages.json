@@ -1,0 +1,18 @@
+{
+  "Dynamic Package Card": {
+    "android": "//android.widget.TextView[@resource-id='com.axis.net:id/productNameTv' and contains(@text, '<PACKAGE_NAME>')]"
+  },
+  "Dynamic Package Price": {
+    "android": "//android.widget.TextView[@resource-id='com.axis.net:id/productNameTv' and contains(@text, '<PACKAGE_NAME>')]/ancestor::android.view.ViewGroup//android.widget.TextView[@resource-id='com.axis.net:id/discountedPriceTv']"
+  },
+  "Dynamic Main Category": {
+    "android": "//android.widget.TextView[contains(@text, '<CATEGORY_NAME>')]"
+  },
+  "Dynamic Tab Category": {
+    "android": "//android.widget.TextView[@resource-id='com.axis.net:id/categoryTv' and contains(@text, '<TAB_NAME>')]"
+  },
+  "Tab Container": {
+    "android": "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.axis.net:id/categoryRv']"
+  }
+
+}

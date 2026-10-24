@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Success Purchase Jumat Baik using Shopeepay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d78b97f6-5a75-438b-a2c2-bcc61d84831d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,183 @@
+{
+"Byop Validity 3D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Byop Validity- 3D",
+      "ios": "",
+      "web":""
+    },
+"Byop Validity 7D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Byop Validity- 7D",
+      "ios": "",
+      "web":""
+    },
+"Byop Validity 14D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Byop Validity- 14D",
+      "ios": "",
+      "web":""
+    },
+"Byop Validity 28D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Byop Validity- 28D",
+      "ios": "",
+      "web":""
+    },
+"Open Byop Custom": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Open Byop Custom",
+      "ios": "",
+      "web":""
+    },
+"Open Byop Recommendation": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Open  Byop Recommendation",
+      "ios": "",
+      "web":""
+    },
+"Aktivasi Sekarang": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Button/Button - AKTIVASI SEKARANG",
+      "ios": "",
+      "web":""
+    },
+"Button Simpan": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Button/Button - SIMPAN",
+      "ios": "",
+      "web":""
+    },
+"Button Tambah": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Button/Button - TAMBAH",
+      "ios": "",
+      "web":""
+    },    
+"Byop Pkg Index 1": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Byop Pkg - Index 1",
+      "ios": "",
+      "web":""
+    },
+"Button Add Ons": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Button - Tambahin kuota pelengkap",
+      "ios": "",
+      "web":""
+    },
+"Button Add Conference": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Add On/Add On Button - Conference",
+      "ios": "",
+      "web":""
+    },    
+"Button Add Conference 28D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Add Button - Conference 28 Hari",
+      "ios": "",
+      "web":""
+    }, 
+ "Add On Pkg Index 1": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Add On/Add Ons Package - List 1",
+      "ios": "",
+      "web":""
+    },
+ "Conference 28D Pkg Index 1": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Add Ons Conference 28D - Index 1",
+      "ios": "",
+      "web":""
+    },
+ "Button - Lain Kali": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Button - LAIN KALI",
+      "ios": "",
+      "web":""
+    },
+ "Button - Ubah Nama Paket": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Button - GANTI NAMA PAKET",
+      "ios": "",
+      "web":""
+    },        
+"Text View - Pop Up Ganti Nama Paket": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/TextView - Change Custom Name",
+      "ios": "",
+      "web":""
+    },
+"Text Field - Ubah Nama Paket": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Text Field - Custom Name",
+      "ios": "",
+      "web":""
+    }  ,
+"Button Aktivasi": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Button - AKTIVASI",
+      "ios": "",
+      "web":""
+    },  
+"Persona GGWP": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Si GGWP",
+      "ios": "",
+      "web":""
+    },
+"Persona Sosmedholic": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Sosmedholic",
+      "ios": "",
+      "web":""
+    },
+"Persona Streams": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Stream Lovers",
+      "ios": "",
+      "web":""
+    },
+"Persona FYP": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Pasukan FYP",
+      "ios": "",
+      "web":""
+    },
+"Persona Drakor": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Drakor Chingu",
+      "ios": "",
+      "web":""
+    },
+"Ribbon Tercucok": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Ribbon -  TERCUCOK",
+      "ios": "",
+      "web":""
+    },
+"Ribbon Tervidio": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Ribbon - TERVIDIO",
+      "ios": "",
+      "web":""
+    },
+"Byop Recommendation Validity 3D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Byop Recommendation - 3 hari",
+      "ios": "",
+      "web":""
+    },
+"Byop Recommendation Validity 7D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Byop Recommendation - 7 hari",
+      "ios": "",
+      "web":""
+    },
+"Byop Recommendation Validity 14D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Byop Recommendation - 15 hari",
+      "ios": "",
+      "web":""
+    },
+"Byop Recommendation Validity 28D": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Recommendation/Byop Recommendation - 28 hari",
+      "ios": "",
+      "web":""
+    },
+"Ribbon Tervidio": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Ribbon - TERVIDIO",
+      "ios": "",
+      "web":""
+    },
+"Ribbon TerHemat": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Byop Ribbon - TERHEMAT",
+      "ios": "",
+      "web":""
+    },
+"Add Ons Conference": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Add Ons - Conference",
+      "ios": "",
+      "web":""
+    },
+"First Add Ons Selection": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Custom/Byop Add Ons - List 1",
+      "ios": "",
+      "web":""
+    },
+"First Add Ons Pkg Selection": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Byop/Add On/Add Ons Package - List 1",
+      "ios": "",
+      "web":""
+    },
+
+ }

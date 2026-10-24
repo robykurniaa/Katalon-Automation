@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Limited Offer 63 Cities using ShopeePay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>436e2c19-8075-45b7-ad2a-d0ec7391e761</testCaseGuid>
+</TestCaseEntity>

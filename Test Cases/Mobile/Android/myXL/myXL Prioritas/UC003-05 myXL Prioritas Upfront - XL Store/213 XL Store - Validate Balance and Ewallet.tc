@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>213 XL Store - Validate Balance and Ewallet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99b87932-2aa0-49f6-8054-d337668bb58c</testCaseGuid>
+</TestCaseEntity>

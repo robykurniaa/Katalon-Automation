@@ -1,0 +1,65 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
+import customKeywords.ScreenshotKeywords as Screenshot
+import customKeywords.SwipeHelper
+import customKeywords.LoginKeywords as Login
+import customKeywords.MedalliaHandling as Medallia
+
+String testCaseName = "Perform Claim Top Up Sureprize"
+
+'Login Axis Net'
+Login.openExistingApp('083827388378', 'DT2022')
+
+'Pop Up Handler'
+Mobile.callTestCase(findTestCase('Test Cases/Mobile/LOCAL - AXISNet/Homepage handler/Press Back'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+
+'medallia handling'
+Medallia.closeMedallia()
+
+'Tap playground'
+Mobile.tap(findTestObject('Mobile/Homepage/Footer/Playground Tab - V2'), 0)
+Screenshot.takeScreenshot(testCaseName,'Top Up Sureprize - Tap playground')
+
+'Tap Top Up Sureprize'
+Mobile.tap(findTestObject('Mobile/Playground/Top Up Surpz/TopUpSurpzPage'), 3)
+Screenshot.takeScreenshot(testCaseName,'Top Up Sureprize - Landing page')
+
+'Tap Lanjut'
+Mobile.tap(findTestObject('Mobile/Playground/Top Up Surpz/BtnLanjut - Top Up Sureprize'), 5)
+Screenshot.takeScreenshot(testCaseName,'Top Up Sureprize - List Bonus')
+
+'Claim Bonus'
+Mobile.tap(findTestObject('Mobile/Playground/Top Up Surpz/ClaimBonus - Top Up Surpz'), 5)
+
+'Swipe Information Top Up SUreprize'
+Mobile.delay(2)
+SwipeHelper.swipeQuickMenu()
+Mobile.delay(2)
+SwipeHelper.swipeQuickMenu()
+Screenshot.takeScreenshot(testCaseName,'Top Up Sureprize Information')
+
+'Btn Lanjut'
+Mobile.tap(findTestObject('Mobile/Playground/Top Up Surpz/BtnAmbilBonus - Top Up Sureprize'), 0)
+
+'Validate Success Claim Bonus'
+Mobile.verifyElementExist(findTestObject('Mobile/Playground/Top Up Surpz/ObjGetText - Success Claim Top Up Sureprize'), 0,  FailureHandling.OPTIONAL)
+Screenshot.takeScreenshot(testCaseName,'Success Claim Top up surerpize')
+
+

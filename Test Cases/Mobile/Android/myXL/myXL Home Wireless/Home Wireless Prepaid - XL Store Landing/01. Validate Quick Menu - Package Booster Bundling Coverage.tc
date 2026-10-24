@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01. Validate Quick Menu - Package Booster Bundling Coverage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce54b952-2f32-491b-a622-e470ea4d8eda</testCaseGuid>
+</TestCaseEntity>

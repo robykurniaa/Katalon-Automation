@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>298 OnBoarding - Validate Invalid OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b19bbb6-3f68-4672-a1b9-039e5ff84f41</testCaseGuid>
+</TestCaseEntity>

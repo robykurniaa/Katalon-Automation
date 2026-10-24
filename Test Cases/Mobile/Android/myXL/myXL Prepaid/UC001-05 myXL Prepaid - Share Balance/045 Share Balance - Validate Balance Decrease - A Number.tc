@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>045 Share Balance - Validate Balance Decrease - A Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c533546-0c7d-4a82-904e-c9a69c92c8b5</testCaseGuid>
+</TestCaseEntity>

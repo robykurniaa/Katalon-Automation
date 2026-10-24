@@ -1,0 +1,118 @@
+{
+"Switch Toggle Gaming": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Toggle Gaming - Switch",
+      "ios": "",
+      "web":""
+    },  
+ "Game Token FF": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Game Token List - FREE FIRE",
+      "ios": "",
+      "web":""
+    }, 
+ "Invalid OTP": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Error State - Game Token Wrong OTP",
+      "ios": "",
+      "web":""
+    },  
+ "Game Token PUBG": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Game Token List - PUBG MOBILE",
+      "ios": "",
+      "web":""
+    }, 
+ "Game Token MLBB": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Game Token List - ML",
+      "ios": "",
+      "web":""
+    }, 
+ "Game Token User Id": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Text Field - Masukan User ID",
+      "ios": "",
+      "web":""
+    },
+ "Game Token Zone Id": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Text Field - Masukan Zone ID",
+      "ios": "",
+      "web":""
+    },
+ "Game Token Top Up Index 1": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Game Token Top Up - Index 1",
+      "ios": "",
+      "web":""
+    }, 
+ "OTP Transaksi": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Transction OTP Field",
+      "ios": "",
+      "web":""
+    },
+ "Paket Nonton Tab": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Tab - Paket Nonton",
+      "ios": "",
+      "web":""
+    }, 
+ "Paket Premium Tab": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Tab - Paket Premium",
+      "ios": "",
+      "web":""
+    },
+"Banner Nonton 1": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Paket Nonton/Banner 1 Paket Nonton",
+      "ios": "",
+      "web":""
+    },
+"Banner Premium 1": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Paket Premium/Paket Premium - Banner 1",
+      "ios": "",
+      "web":""
+    },
+"Gtunes 300MB": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Paket Premium/Premium - Paket Musik GTUNES 300MB 1hr",
+      "ios": "",
+      "web":""
+    },
+"Catchplay Lite 7Hr": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Paket Nonton/Paket Nonton - CATCHPLAY Lite 7hr",
+      "ios": "",
+      "web":""
+    },    
+"Catchplay Single Rental 7Hr": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Paket Nonton/Paket Nonton- CATCHPLAY Single Rental Regular 7hr",
+      "ios": "",
+      "web":""
+    },
+"Udemy Edu 7Hr": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Paket Premium/Paket Premium Udemy - Paket Edu Udemy 7 hr",
+      "ios": "",
+      "web":""
+    },
+"Banner Premium 2": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Paket Premium/Banner 2 Paket Premium",
+      "ios": "",
+      "web":""
+    },
+"Button OK": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Entertainment/Button OK",
+      "ios": "",
+      "web":""
+    },
+"Failed Activate Unl Gaming": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Entertainment/Unlimited Gaming - Aktivasi Kuota Game Gagal",
+      "ios": "",
+      "web":""
+    },
+"Rekreaxis Menu": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Rekreaxis/Entertainment - Rekreaxis",
+      "ios": "",
+      "web":""
+    },
+"Button Ke Rekreaxis": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Rekreaxis/Button - KE REKREAXIS",
+      "ios": "",
+      "web":""
+    },
+"Rekreaxis Page": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Entertainment/Rekreaxis/RekreAXIS Page",
+      "ios": "",
+      "web":""
+    },
+
+ }

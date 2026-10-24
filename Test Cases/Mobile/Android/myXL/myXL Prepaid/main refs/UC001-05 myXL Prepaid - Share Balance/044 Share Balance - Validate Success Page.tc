@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>044 Share Balance - Validate Success Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd5c8006-7d31-4c3c-a1d3-2d343701bb07</testCaseGuid>
+</TestCaseEntity>

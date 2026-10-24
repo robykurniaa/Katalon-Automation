@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>209 Billing - Validate Billing Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6f63033-4ec8-4236-8925-00c378af32e4</testCaseGuid>
+</TestCaseEntity>

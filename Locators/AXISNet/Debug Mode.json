@@ -1,0 +1,27 @@
+{
+"Server Page": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/UAT Mode/Debug - Pilih Server",
+      "ios": "",
+      "web":""
+    },
+"Spinner List": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/UAT Mode/Spinner Debug",
+      "ios": "",
+      "web":""
+    },
+"Check Box UAT Page": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/UAT Mode/CheckBox - Uat",
+      "ios": "",
+      "web":""
+    },
+"Check Box Prod Page": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/UAT Mode/CheckBox - Production",
+      "ios": "",
+      "web":""
+    },
+"Button Pilih Server": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/UAT Mode/Button - PILIH SERVER",
+      "ios": "",
+      "web":""
+    }
+ }

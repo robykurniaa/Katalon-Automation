@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Invalid input OTP purchase game token</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9d1bcb8-0976-442d-91d0-18489d4616da</testCaseGuid>
+</TestCaseEntity>

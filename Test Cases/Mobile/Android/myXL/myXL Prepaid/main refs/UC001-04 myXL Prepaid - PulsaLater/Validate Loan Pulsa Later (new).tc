@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Loan Pulsa Later (new)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2a0f2c8-51fd-4a55-b6a5-7133727a3f1a</testCaseGuid>
+</TestCaseEntity>

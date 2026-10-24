@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>232 Profile - Validate Roaming Service</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9312a1b7-d28b-467b-8be2-41ec1fe2d850</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+{
+"User Id": {
+      "android": "",
+      "ios": "",
+      "web":"//input[@placeholder='User id' or @aria-label='User id']"
+    },
+"First Denomination": {
+      "android": "",
+      "ios": "",
+      "web":"(//div[contains(@class, 'denom-card')])[1]"
+    },   
+"Button Lanjutkan": {
+      "android": "",
+      "ios": "",
+      "web":"//button[normalize-space()='Lanjutkan']"
+    },  
+"Input Pin": {
+      "android": "",
+      "ios": "",
+      "web":"//input[@inputmode='numeric']"
+    },
+"Button Konfirmasi": {
+      "android": "",
+      "ios": "",
+      "web":"//button[normalize-space()='konfirmasi']"
+    },
+"Buat Pin": {
+      "android": "",
+      "ios": "",
+      "web":"//div[@class='change-number' and normalize-space()='buat PIN']"
+    },
+"Ganti Nomor": {
+      "android": "",
+      "ios": "",
+      "web":"//div[@class='change-number' and normalize-space(.)='Ganti Nomor']"
+    },
+"Choose Second Number": {
+      "android": "",
+      "ios": "",
+      "web":"//h6[normalize-space()='Nomor Tambahan']/following-sibling::p/following-sibling::div[@type='button'][1]"
+    },
+"Checklist Icon": {
+      "android": "",
+      "ios": "",
+      "web":"//i[contains(@class, 'ai-check')]"
+    },
+"First Detail Transaksi": {
+  	"android": "",
+  	"ios": "",
+  	"web": "(//a[contains(@class, 'history-list-item') and contains(normalize-space(), 'Lihat Detail Transaksi')])[1]"
+	},
+"Header Detail Order": {
+  	"android": "",
+  	"ios": "",
+  	"web": "//div[contains(@class, 'header-title') and normalize-space()='Detail Order']"
+	},
+"Button Beli": {
+  	"android": "",
+  	"ios": "",
+  	"web": "(//div[contains(@class, 'denom-card')]//button[normalize-space()='Beli'])[1]"
+	},
+"Button Plus": {
+  	"android": "",
+  	"ios": "",
+  	"web": "//button[contains(@class, 'plus')]"
+	},
+"Total Transaksi": {
+  	"web": "//div[contains(@class, 'detail-action-text')]//div[contains(@class, 'price')]"
+	},
+"Warning Insuff Balance": {
+  	"web": "//*[contains(text(), 'Saldo tidak mencukupi') or contains(@class, 'warning')]"
+	},
+"Input Quantity": {
+  "web": "//input[@type='number']"
+	},
+"Detail Price": {
+  "web": "//div[contains(@class, 'price') and contains(normalize-space(), 'x')]"
+	},
+"Error Message Text": {
+  "web": "//p[contains(@class, 'text-red-info')]"
+	}
+ }
+ 

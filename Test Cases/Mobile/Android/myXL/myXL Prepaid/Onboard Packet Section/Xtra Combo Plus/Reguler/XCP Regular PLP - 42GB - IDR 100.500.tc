@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XCP Regular PLP - 42GB - IDR 100.500</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f158fc9-d39f-4f6a-ac1d-147d3af02992</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>154 Billing - Validate Invoice History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03508e2e-0d4c-44d9-872d-da1eb321c816</testCaseGuid>
+</TestCaseEntity>

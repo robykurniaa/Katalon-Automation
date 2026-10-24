@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 Parent A and B - Group and Member (Edit Group, Remove Member)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c28908fe-3938-449e-a993-bf0a71d50ddd</testCaseGuid>
+</TestCaseEntity>

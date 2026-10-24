@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>08 Validate Valid OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4928af29-d5c1-496d-8c52-49dc5ce1bdd1</testCaseGuid>
+</TestCaseEntity>

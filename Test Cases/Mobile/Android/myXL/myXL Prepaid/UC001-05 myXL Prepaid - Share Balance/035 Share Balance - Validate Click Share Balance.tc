@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>035 Share Balance - Validate Click Share Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c20f9374-aef7-46e2-a0bd-72bedb726fa6</testCaseGuid>
+</TestCaseEntity>

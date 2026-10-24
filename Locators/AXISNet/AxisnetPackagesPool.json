@@ -1,0 +1,238 @@
+{
+  "Internet": {
+    "Bronet 5G AF": {
+      "BRONET_65GB": {
+        "packageName": "BRONET 65GB 28hr 5G",
+        "expectedPrice": 100000,
+        "validityDays": 28
+      },
+      "BRONET_100GB": {
+        "packageName": "BRONET 100GB 28hr 5G",
+        "expectedPrice": 125000,
+        "validityDays": 28
+      }
+    },
+    "TENG-GO": {
+      "Tenggo_Tiktok_12Jam": {
+        "packageName": "Teng-go TIKTOK 12 Jam",
+        "expectedPrice": 5000,
+        "validityDays": 5
+      },
+      "Tenggo_Youtube_12Jam": {
+        "packageName": "Teng-go YOUTUBE 12 Jam",
+        "expectedPrice": 5000,
+        "validityDays": 5
+      }
+    },
+    "Warnet": {
+      "WARNET_1_JAM": {
+        "packageName": "Warnet 1 Jam 1GB Disc 21%",
+        "expectedPrice": 1200,
+        "validityDays": 1
+      },
+      "WARNET_3_JAM": {
+        "packageName": "Warnet 3 Jam",
+        "expectedPrice": 1500,
+        "validityDays": 1
+      }
+    },
+    "owsem stream": {
+      "OWSEM_STREAM_8GB": {
+        "packageName": "Owsem Stream 8GB",
+        "expectedPrice": 25000,
+        "validityDays": 30
+      },
+      "OWSEM_STREAM_16GB": {
+        "packageName": "Owsem Stream 16GB",
+        "expectedPrice": 45000,
+        "validityDays": 30
+      }
+    }
+  },
+  "Bronet": {
+    "Paket Terpopuler": {
+      "TERPOPULER_1": {
+        "packageName": "Terpopuler 10GB 30Hr",
+        "expectedPrice": 35000,
+        "validityDays": 30
+      },
+      "TERPOPULER_2": {
+        "packageName": "Terpopuler 20GB 30Hr",
+        "expectedPrice": 55000,
+        "validityDays": 30
+      }
+    },
+    "bronet": {
+      "BRONET_24JAM_2GB": {
+        "packageName": "Bronet 24Jam 2GB",
+        "expectedPrice": 15000,
+        "validityDays": 30
+      },
+      "BRONET_24JAM_5GB": {
+        "packageName": "Bronet 24Jam 5GB",
+        "expectedPrice": 25000,
+        "validityDays": 30
+      }
+    }
+  },
+  "Boostr": {
+    "boostr games": {
+      "GAMES_1GB": {
+        "packageName": "Boostr Games 1GB",
+        "expectedPrice": 3000,
+        "validityDays": 1
+      },
+      "GAMES_2GB": {
+        "packageName": "Boostr Games 2GB",
+        "expectedPrice": 5000,
+        "validityDays": 3
+      }
+    },
+    "boostr sosmed": {
+      "SOSMED_1GB": {
+        "packageName": "Boostr Sosmed 1GB",
+        "expectedPrice": 3000,
+        "validityDays": 1
+      },
+      "SOSMED_2GB": {
+        "packageName": "Boostr Sosmed 2GB",
+        "expectedPrice": 5000,
+        "validityDays": 3
+      }
+    },
+    "boostr video": {
+      "VIDEO_1GB": {
+        "packageName": "Boostr Video 1GB",
+        "expectedPrice": 3500,
+        "validityDays": 1
+      },
+      "VIDEO_2GB": {
+        "packageName": "Boostr Video 2GB",
+        "expectedPrice": 6000,
+        "validityDays": 3
+      }
+    },
+    "boostr sunset": {
+       "BOOSTR_SUNSET_500": {
+        "packageName": "Boostr Sunset 500MB",
+        "expectedPrice": 600,
+        "validityDays": 1
+      },
+      "SUNSET_5GB": {
+        "packageName": "Boostr Sunset 5GB",
+        "expectedPrice": 5000,
+        "validityDays": 1
+      }
+    },
+    "boostr komik": {
+      "KOMIK_500MB": {
+        "packageName": "Boostr Komik 500MB",
+        "expectedPrice": 1500,
+        "validityDays": 1
+      },
+      "KOMIK_1GB": {
+        "packageName": "Boostr Komik 1GB",
+        "expectedPrice": 2500,
+        "validityDays": 3
+      }
+    },
+    "boostr musik": {
+      "MUSIK_1GB": {
+        "packageName": "Boostr Musik 1GB",
+        "expectedPrice": 2500,
+        "validityDays": 1
+      },
+      "MUSIK_2GB": {
+        "packageName": "Boostr Musik 2GB",
+        "expectedPrice": 4000,
+        "validityDays": 3
+      }
+    }
+  },
+  "Lifestyle": {
+    "roblox": {
+      "ROBLOX_100": {
+        "packageName": "Roblox 100 Robux",
+        "expectedPrice": 15000,
+        "validityDays": 30
+      },
+      "ROBLOX_200": {
+        "packageName": "Roblox 200 Robux",
+        "expectedPrice": 30000,
+        "validityDays": 30
+      }
+    },
+    "google play": {
+      "GPLAY_20K": {
+        "packageName": "Voucher Google Play 20K",
+        "expectedPrice": 22000,
+        "validityDays": 30
+      },
+      "GPLAY_50K": {
+        "packageName": "Voucher Google Play 50K",
+        "expectedPrice": 55000,
+        "validityDays": 30
+      }
+    },
+    "garena shell": {
+      "GARENA_33": {
+        "packageName": "Garena 33 Shells",
+        "expectedPrice": 10000,
+        "validityDays": 30
+      },
+      "GARENA_66": {
+        "packageName": "Garena 66 Shells",
+        "expectedPrice": 20000,
+        "validityDays": 30
+      }
+    },
+    "unipin voucher": {
+      "UNIPIN_10K": {
+        "packageName": "UniPin Voucher 10.000",
+        "expectedPrice": 10500,
+        "validityDays": 30
+      },
+      "UNIPIN_20K": {
+        "packageName": "UniPin Voucher 20.000",
+        "expectedPrice": 21000,
+        "validityDays": 30
+      }
+    },
+    "whatsapp": {
+      "WA_1GB": {
+        "packageName": "Boostr WA 1GB",
+        "expectedPrice": 2000,
+        "validityDays": 1
+      },
+      "WA_2GB": {
+        "packageName": "Boostr WA 2GB",
+        "expectedPrice": 3500,
+        "validityDays": 3
+      }
+    },
+    "vidio": {
+      "VIDIO_7D": {
+        "packageName": "Vidio Premier 7 Hari",
+        "expectedPrice": 15000,
+        "validityDays": 7
+      },
+      "VIDIO_30D": {
+        "packageName": "Vidio Premier 30 Hari",
+        "expectedPrice": 49000,
+        "validityDays": 30
+      }
+    },
+    "spotiy": {
+      "SPOTIFY_1D": {
+        "packageName": "Spotify Premium 1 Hari",
+        "expectedPrice": 2500,
+        "validityDays": 1
+      },
+      "SPOTIFY_7D": {
+        "packageName": "Spotify Premium 7 Hari",
+        "expectedPrice": 9500,
+        "validityDays": 7
+      }
+    }
+  }
+}

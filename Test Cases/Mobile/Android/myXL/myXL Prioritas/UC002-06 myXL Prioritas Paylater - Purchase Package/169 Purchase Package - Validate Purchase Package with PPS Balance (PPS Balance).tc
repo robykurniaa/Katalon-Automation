@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>169 Purchase Package - Validate Purchase Package with PPS Balance (PPS Balance)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60a458df-10a9-4682-aec1-648938827e8b</testCaseGuid>
+</TestCaseEntity>

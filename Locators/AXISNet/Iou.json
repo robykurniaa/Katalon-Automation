@@ -1,0 +1,67 @@
+{
+"Swipe Key IOU": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pulsa Darurat/Swipe Key Landing Page Pulsa Darurat",
+      "ios": "",
+      "web":""
+    },
+"Button Gunakan Pulsa Darurat": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pulsa Darurat/Button - GUNAKAN PULSA DARURAT",
+      "ios": "",
+      "web":""
+    },
+"Button Pinjam": {
+      "android": "//android.widget.Button[@resource-id='com.axis.net:id/actionBtn' and @text='PINJAM']",
+      "ios": "",
+      "web":""
+    },
+"Check Box IOU": {
+      "android": "//android.widget.CheckBox[@resource-id='com.axis.net:id/tncCb']",
+      "ios": "",
+      "web":""
+    },
+"Loan 1000": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nominalTxt' and @text='1000']",
+      "ios": "",
+      "web":""
+    },
+"Loan 2000": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nominalTxt' and @text='2000']",
+      "ios": "",
+      "web":""
+    },
+"Loan 3000": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nominalTxt' and @text='3000']",
+      "ios": "",
+      "web":""
+    },
+"Loan 4000": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nominalTxt' and @text='4000']",
+      "ios": "",
+      "web":""
+    },
+"Loan 5000": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nominalTxt' and @text='5000']",
+      "ios": "",
+      "web":""
+    },
+"Loan 7000": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nominalTxt' and @text='7000']",
+      "ios": "",
+      "web":""
+    },
+"Loan 10000": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nominalTxt' and @text='10000']",
+      "ios": "",
+      "web":""
+    },
+"Button Lanjut IOU": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Pulsa Darurat/Button - Next Iou",
+      "ios": "",
+      "web":""
+    },
+"Data Loan Option": {
+      "android": "//android.widget.ImageView[@resource-id='com.axis.net:id/radioIv']']",
+      "ios": "",
+      "web":""
+    },
+}

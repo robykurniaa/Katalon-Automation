@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Create Order Limited Offer Nasional using OVO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7db05c51-d699-48ae-8952-8a8f3ead1e5a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>036 Share Balance - Validate Input Other Operator MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95990e89-7542-46bd-8b04-7a12e2e5e3f0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>204 Topup - Validate Change MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1705437-ef8c-430f-8955-42fe35a9cdda</testCaseGuid>
+</TestCaseEntity>

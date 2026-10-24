@@ -1,0 +1,22 @@
+{
+"Kuota Checkbox": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Transfer Kuota/Kuota CheckBox",
+      "ios": "",
+      "web":""
+    },
+"Kuota Amount 300": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Transfer Kuota/Transfer Kuota - 300.00 MB",
+      "ios": "",
+      "web":""
+    },
+"Transfer Kuota Invalid Number": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Transfer Kuota/Transfer Kuota - Nomor telepon tidak sesuai",
+      "ios": "",
+      "web":""
+    },
+"Destination Number": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Transfer Kuota/Transfer Kuota Text Field - Nomor Handphone",
+      "ios": "",
+      "web":""
+    }
+ }

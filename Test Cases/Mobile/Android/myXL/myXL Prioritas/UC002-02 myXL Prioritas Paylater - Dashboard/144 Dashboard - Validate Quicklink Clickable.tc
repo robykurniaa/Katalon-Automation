@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>144 Dashboard - Validate Quicklink Clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c829c4ed-4921-41f3-ba23-eec72677e0da</testCaseGuid>
+</TestCaseEntity>

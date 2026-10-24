@@ -1,0 +1,163 @@
+{
+"Success Login": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Login/Login Page/Success Login",
+      "ios": "",
+      "web":""
+    },
+"Medallia - Close Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Medallia/Medallia Survey Dashboard - Close",
+      "ios": "",
+      "web":""
+    },
+"Medallia Survey - Text View": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Medallia/Medallia - Mohon luangkan 1 menit",
+      "ios": "",
+      "web":""
+    },
+"TNC Page": {
+      "android": "Object Repository/Mobile/Android/AXISNet/SNK Login/SNK Login Page",
+      "ios": "",
+      "web":""
+    },
+    
+"TNC Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/SNK Login/SNK Login Page",
+      "ios": "",
+      "web":""
+    },
+"Quick Menu - Isi Aigo": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Isi Voucher AIGO']",
+      "ios": "",
+      "web":""
+    },
+"Quick Menu - Isi Pulsa": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Isi Pulsa']",
+      "ios": "",
+      "web":""
+    },
+"Quick Menu - Tenggo": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Menu/Quick Menu - Teng-Go",
+      "ios": "",
+      "web":""
+    },    
+ "Quick Menu - Donasi Kuota": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Donasi Kuota']",
+      "ios": "",
+      "web":""
+    },
+ "Quick Menu - BYOP": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Paket Suka-Suka']",
+      "ios": "",
+      "web":""
+    },
+ "Quick Menu - Swipe": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Quick Menu/Quick Menu - Swipe",
+      "ios": "",
+      "web":""
+    },        
+"Quick Menu - Pulsa Darurat": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Pulsa Darurat']",
+      "ios": "",
+      "web":""
+    },
+"Quick Menu - Kuota Darurat": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Kuota Darurat']",
+      "ios": "",
+      "web":""
+    },
+"Quick Menu - Convert Pulsa": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Convert Pulsa']",
+      "ios": "",
+      "web":""
+    },
+"Bottom Navigation Menu - Playground": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Bottom Menu/Bottom Menu - Playground",
+      "ios": "",
+      "web":""
+    },   
+"Bottom Navigation Menu - Beranda": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Bottom Menu/Bottom Menu - Beranda",
+      "ios": "",
+      "web":""
+    },
+"Bottom Navigation Menu - Paket": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Bottom Menu/Bottom Menu - Paket",
+      "ios": "",
+      "web":""
+    },      
+"Bottom Navigation Menu - Alifetime": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Bottom Menu/Bottom Menu - Alifetime",
+      "ios": "",
+      "web":""
+    },   
+"Bottom Navigation Menu - Lifestyle": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Bottom Menu/Bottom Menu - Hiburan",
+      "ios": "",
+      "web":""
+    },   
+"Medallia Survey - Close Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Medallia/Medallia Survey Dashboard - Close",
+      "ios": "",
+      "web":""
+    },
+"Chevron Kuota": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/quotaLabelTv' and @text='SISA KUOTA']",
+      "ios": "",
+      "web":""
+    },
+"Text View Detail Paket": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Dashboard/Text View - Detail Paket",
+      "ios": "",
+      "web":""
+    },
+"Button Menu Pulsa Lainnya": {
+      "android": "//android.widget.ImageView[@resource-id='com.axis.net:id/balanceChevronIv' and (@text='' or .='')]",
+      "ios": "",
+      "web":""
+    },       
+"Image Button Lock Services": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Dashboard/Image Button - Lock Services",
+      "ios": "",
+      "web":""
+    },
+"Swipe Key LO Pkg": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Limited Offer/LO Swipe Pkg",
+      "ios": "",
+      "web":""
+    },    
+"Mendadak Diskon": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Limited Offer/Button - Mendadak Diskon",
+      "ios": "",
+      "web":""
+    }, 
+"Quick Menu - Lihat Semua": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Lihat Semua']",
+      "ios": "",
+      "web":""
+    }, 
+"Quick Menu - Transfer Pulsa": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Transfer Pulsa']",
+      "ios": "",
+      "web":""
+    },
+"Quick Menu - Transfer Kuota": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/nameTv' and @text='Transfer Quota']",
+      "ios": "",
+      "web":""
+    },
+"Swipe Up": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Limited Offer/Scroll Up Limited Offer",
+      "ios": "",
+      "web":""
+    },  
+"Bonus Pasti": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Detail Pkg/Detail Paket - BONUS PASTI",
+      "ios": "",
+      "web":""
+    },  
+"Detail Bonus Pasti": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Detail Pkg/Detail Bonus Pasti - Bonus Nelpon ke XL  AXIS",
+      "ios": "",
+      "web":""
+    }
+ }

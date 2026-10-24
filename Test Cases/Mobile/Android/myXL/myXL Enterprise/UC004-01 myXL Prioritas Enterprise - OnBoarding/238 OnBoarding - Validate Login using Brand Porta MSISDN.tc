@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>238 OnBoarding - Validate Login using Brand Porta MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15f543ec-7dce-4436-8758-26b4e17d0c27</testCaseGuid>
+</TestCaseEntity>

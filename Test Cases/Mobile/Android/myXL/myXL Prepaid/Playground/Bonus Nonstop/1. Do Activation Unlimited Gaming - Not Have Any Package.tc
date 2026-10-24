@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Do Activation Unlimited Gaming - Not Have Any Package</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd39e809-7840-466b-988e-7ccb8012774c</testCaseGuid>
+</TestCaseEntity>

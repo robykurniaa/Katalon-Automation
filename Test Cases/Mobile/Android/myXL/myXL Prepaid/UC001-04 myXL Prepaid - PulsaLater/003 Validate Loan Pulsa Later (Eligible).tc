@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 Validate Loan Pulsa Later (Eligible)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d397e63f-35e1-4640-85b8-626a8b00b104</testCaseGuid>
+</TestCaseEntity>

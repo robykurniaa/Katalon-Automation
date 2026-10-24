@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order MCCM using Gopay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>facd7b30-8d40-4774-9f00-9e4b35f67d9f</testCaseGuid>
+</TestCaseEntity>

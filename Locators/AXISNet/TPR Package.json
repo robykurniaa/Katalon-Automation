@@ -1,0 +1,7 @@
+{
+"Boostr weekend Tab": {
+      "android": "//android.widget.TextView[@resource-id='com.axis.net:id/categoryTv' and @text='Boostr Weekend']",
+      "ios": "",
+      "web":""
+    }   
+ }

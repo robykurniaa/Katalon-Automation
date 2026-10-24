@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Create Order BYOP Recommendation and OTT using Multipayment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2577bdda-8ca4-4b4f-934e-3eecf6e86647</testCaseGuid>
+</TestCaseEntity>

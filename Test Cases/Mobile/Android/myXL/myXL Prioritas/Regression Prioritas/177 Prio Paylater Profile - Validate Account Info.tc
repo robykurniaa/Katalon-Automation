@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>177 Prio Paylater Profile - Validate Account Info</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68c23f38-55db-4d2f-9393-669a4bccb79e</testCaseGuid>
+</TestCaseEntity>

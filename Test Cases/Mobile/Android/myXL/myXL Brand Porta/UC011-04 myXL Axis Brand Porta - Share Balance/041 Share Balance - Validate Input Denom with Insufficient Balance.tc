@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>041 Share Balance - Validate Input Denom with Insufficient Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>facbdaaa-f283-467b-b685-d4536fcd0cab</testCaseGuid>
+</TestCaseEntity>

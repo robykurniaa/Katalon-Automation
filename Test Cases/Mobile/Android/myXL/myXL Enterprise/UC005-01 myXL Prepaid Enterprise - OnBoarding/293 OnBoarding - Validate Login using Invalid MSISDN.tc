@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>293 OnBoarding - Validate Login using Invalid MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90236d9e-bd03-4c84-a8fb-9b7c19ad948f</testCaseGuid>
+</TestCaseEntity>

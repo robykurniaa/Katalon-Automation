@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007 Validate Balance increase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d218de1-36b0-4889-8bdf-1cbb605023f8</testCaseGuid>
+</TestCaseEntity>

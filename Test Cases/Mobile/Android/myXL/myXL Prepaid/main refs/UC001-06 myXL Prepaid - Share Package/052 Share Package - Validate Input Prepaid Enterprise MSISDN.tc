@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>052 Share Package - Validate Input Prepaid Enterprise MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09b5e50d-d695-4de8-858d-c4c553069c3b</testCaseGuid>
+</TestCaseEntity>

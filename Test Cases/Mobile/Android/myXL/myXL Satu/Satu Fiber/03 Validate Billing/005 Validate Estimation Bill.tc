@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005 Validate Estimation Bill</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9dc62843-c946-4dfe-8c24-8c2b05a0a590</testCaseGuid>
+</TestCaseEntity>

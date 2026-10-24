@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002 Pulsa Later - Validate PulsaLater (Not Eligible)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>879c066d-60d8-4d71-b294-e0f3a44695a4</testCaseGuid>
+</TestCaseEntity>

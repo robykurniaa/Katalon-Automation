@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Error State Input Msisdn Less Than 11-12 digit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20d0978b-12e3-4993-b044-5fca28402ca4</testCaseGuid>
+</TestCaseEntity>

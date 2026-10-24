@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>242 OnBoarding - Validate Valid OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>938a5c47-bd43-4197-9a59-9a5a8bf7f214</testCaseGuid>
+</TestCaseEntity>

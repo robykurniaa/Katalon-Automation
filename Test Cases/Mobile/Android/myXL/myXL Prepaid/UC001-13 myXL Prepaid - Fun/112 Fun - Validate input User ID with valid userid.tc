@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>112 Fun - Validate input User ID with valid userid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>871f1879-c55f-4689-835c-2dd4edad5e04</testCaseGuid>
+</TestCaseEntity>

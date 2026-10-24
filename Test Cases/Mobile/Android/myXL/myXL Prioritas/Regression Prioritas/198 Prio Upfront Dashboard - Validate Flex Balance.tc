@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>198 Prio Upfront Dashboard - Validate Flex Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d24352a-6ebf-4d08-ac4d-8b99d58abbc4</testCaseGuid>
+</TestCaseEntity>

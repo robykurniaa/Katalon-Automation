@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>048 Share Package - Validate Input Other Operator MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd018590-f821-4392-8d0d-02426bb93362</testCaseGuid>
+</TestCaseEntity>

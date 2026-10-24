@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Lock and Unclock Services</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39e29219-85c6-42ca-bd2a-fdba8407fbe1</testCaseGuid>
+</TestCaseEntity>

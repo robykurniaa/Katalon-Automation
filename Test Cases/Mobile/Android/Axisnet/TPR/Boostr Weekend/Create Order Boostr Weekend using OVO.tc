@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Order Boostr Weekend using OVO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5c7db7a-5774-45c2-8853-1acc78a2daaa</testCaseGuid>
+</TestCaseEntity>

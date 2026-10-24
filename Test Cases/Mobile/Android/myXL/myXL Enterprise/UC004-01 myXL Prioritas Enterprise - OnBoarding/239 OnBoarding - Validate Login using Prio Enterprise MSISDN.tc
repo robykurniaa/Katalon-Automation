@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>239 OnBoarding - Validate Login using Prio Enterprise MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6796e56-1df4-4513-a1e3-d076783467b8</testCaseGuid>
+</TestCaseEntity>

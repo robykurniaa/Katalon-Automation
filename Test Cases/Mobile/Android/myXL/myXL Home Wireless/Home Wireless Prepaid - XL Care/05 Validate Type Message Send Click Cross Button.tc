@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05 Validate Type Message Send Click Cross Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ffabe27-bdf3-4d26-a602-38128cfd7738</testCaseGuid>
+</TestCaseEntity>

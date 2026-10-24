@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase Ketengan Item using Invalid PIN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>877fd4d2-1b92-440e-afae-175e53c52bd7</testCaseGuid>
+</TestCaseEntity>

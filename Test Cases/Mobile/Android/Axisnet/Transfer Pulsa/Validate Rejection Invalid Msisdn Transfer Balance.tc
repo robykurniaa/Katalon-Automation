@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Rejection Invalid Msisdn Transfer Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02c4097b-6cc9-457b-807f-5b548d2b825b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+{
+"Sureprize": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Sureprize/Playgorund- Sureprize",
+      "ios": "",
+      "web":""
+    },
+"Sureprize Claim Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Sureprize/Button - KLAIM",
+      "ios": "",
+      "web":""
+    },   
+"Button Home Success Claim Playground": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Success Claim Bonus/Button - KEMBALI KE HOME",
+      "ios": "",
+      "web":""
+    },  
+"Playground Menu": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Menu/Bottom Menu - Playground",
+      "ios": "",
+      "web":""
+    },
+"Mistery Box Playground": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Mistery Box/Playground - Mystery Box",
+      "ios": "",
+      "web":""
+    },
+"Open Box": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Mistery Box/Button - BUKA BOX",
+      "ios": "",
+      "web":""
+    },
+"Button Claim Mistery Box": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Mistery Box/Button - KLAIM SEKARANG",
+      "ios": "",
+      "web":""
+    },
+"Top Up Sureprize Playground": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Top Up Sureprize/Playground - Top Up Sureprize",
+      "ios": "",
+      "web":""
+    },
+"Button Claim Top Up Sureprize": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Top Up Sureprize/Button Klaim - Top Up Sureprize",
+      "ios": "",
+      "web":""
+    },
+"Button Ambil Sekarang Top Up Sureprize": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Top Up Sureprize/Button - Ambil Bonus",
+      "ios": "",
+      "web":""
+    },
+ "Swipe Key Top Up Sureprize": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Playground/Top Up Sureprize/Swipe key top up sureprize",
+      "ios": "",
+      "web":""
+    },
+ }

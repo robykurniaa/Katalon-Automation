@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Purchase Byop Custom 14 Hari</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba88685b-3a7a-4527-860c-57a936a34a3a</testCaseGuid>
+</TestCaseEntity>

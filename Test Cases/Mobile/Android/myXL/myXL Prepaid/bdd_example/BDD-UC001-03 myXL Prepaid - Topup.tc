@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDD-UC001-03 myXL Prepaid - Topup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d3bc734-3057-48b3-81f8-32f80d452fb6</testCaseGuid>
+</TestCaseEntity>

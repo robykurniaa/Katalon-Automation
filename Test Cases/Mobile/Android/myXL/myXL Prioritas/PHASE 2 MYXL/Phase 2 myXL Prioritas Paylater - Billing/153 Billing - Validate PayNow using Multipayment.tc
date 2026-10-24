@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>153 Billing - Validate PayNow using Multipayment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>292c40df-4570-498c-a3ad-8036d9156a04</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Check Kuota Bonus Pasti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea7300bd-d64d-4cc4-aa94-cefc1e554684</testCaseGuid>
+</TestCaseEntity>

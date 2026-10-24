@@ -1,0 +1,82 @@
+{
+  "Icon Dashboard": {
+    "android": "",
+    "ios": "",
+    "web": "//img[@alt='user icon']"
+  },
+  "Search Bar": {
+    "android": "",
+    "ios": "",
+    "web": "//input[@placeholder='Cari game favoritmu']"
+  },
+  "Mode Ketengan": {
+    "android": "",
+    "ios": "",
+    "web": "//button[normalize-space()='Ketengan']"
+  },
+  "Mode Borongan": {
+    "android": "",
+    "ios": "",
+    "web": "//div[@role='button' and normalize-space()='Borongan']"
+  },
+  "Flash Sale": {
+    "android": "",
+    "ios": "",
+    "web": "//button[normalize-space()='FLASH SALE']"
+  },
+  "Free Fire": {
+    "android": "",
+    "ios": "",
+    "web": "//div[contains(@class, 'card-game-title') and text()='Free Fire']"
+  },
+    "UniPin": {
+    "android": "",
+    "ios": "",
+    "web": "//div[contains(@class, 'card-game-title') and text()='UniPin']"
+  },
+    "Google Play": {
+    "android": "",
+    "ios": "",
+    "web": "//div[contains(@class, 'card-game-title') and text()='Google Play']"
+  },
+  "Menu List Number": {
+    "android": "",
+    "ios": "",
+    "web": "//a[@href='/user/phones']"
+  },
+  "Menu History": {
+    "android": "",
+    "ios": "",
+    "web": "//a[@href='/transaction/history']"
+  },
+  "Button Keluar": {
+    "android": "",
+    "ios": "",
+    "web": "//div[@role='button' and contains(normalize-space(), 'Keluar')]"
+  },
+  "Button Option Number": {
+    "android": "",
+    "ios": "",
+    "web": "//div[contains(@class, 'card') and .//div[contains(@class, 'phone') and contains(text(), '083827388378')]]//img[@alt='ic delete']"
+  },
+  "Change Pin": {
+    "android": "",
+    "ios": "",
+    "web": "//a[normalize-space()='Ganti PIN']"
+  },
+  "Delete Number": {
+    "android": "",
+    "ios": "",
+    "web": "//div[@role='button' and normalize-space()='Hapus Nomor']"
+  },
+  "Tambah Nomor Telepon": {
+    "android": "",
+    "ios": "",
+    "web": "//a[@href='/user/phones-add']"
+  },
+  "Button Ya": {
+    "android": "",
+    "ios": "",
+    "web": "//div[@role='button' and text()='YA, HAPUS']"
+  }
+}

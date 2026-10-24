@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>050 Share Package - Validate Input Axis MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>020b4b3f-f439-4653-af9d-559811d438d0</testCaseGuid>
+</TestCaseEntity>

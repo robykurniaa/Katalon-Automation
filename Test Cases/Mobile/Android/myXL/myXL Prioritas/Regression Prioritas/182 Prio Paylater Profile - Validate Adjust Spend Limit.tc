@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>182 Prio Paylater Profile - Validate Adjust Spend Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4417ff3-2cc4-4994-aed5-af42964bf48c</testCaseGuid>
+</TestCaseEntity>

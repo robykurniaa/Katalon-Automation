@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>134 Login - Validate Login using Prioritas Paylater MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2012bda-8a21-42f7-a17e-540eeb75c2f9</testCaseGuid>
+</TestCaseEntity>

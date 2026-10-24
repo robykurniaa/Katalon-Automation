@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard - Validate XL is VoLTE Ready</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03c6d26d-9747-478d-8fdf-2f97c79f42fe</testCaseGuid>
+</TestCaseEntity>

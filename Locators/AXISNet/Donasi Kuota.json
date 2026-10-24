@@ -1,0 +1,47 @@
+{
+"Donasi Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Donasi Button",
+      "ios": "",
+      "web":""
+    },
+"Donasi Sekarang Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Button - Donasi Sekarang",
+      "ios": "",
+      "web":""
+    },
+ "Pilih Nominal Donasi": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Button - Pilih Nominal Donasi",
+      "ios": "",
+      "web":""
+    },
+"Choose Kuota": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Choose Kuota for Donasi",
+      "ios": "",
+      "web":""
+    },
+"Select Denom Donasi": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Nominal Donasi - 100MB",
+      "ios": "",
+      "web":""
+    },    
+"Konfirmasi Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/ObjBtn - KONFIRMASI",
+      "ios": "",
+      "web":""
+    },          
+"Success Donasi": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Success Donasi Kuota",
+      "ios": "",
+      "web":""
+    },
+"Button Donasi Lagi": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Button - Donasi Lagi",
+      "ios": "",
+      "web":""
+    },
+"Button Kembali ke Home": {
+      "android": "Object Repository/Mobile/Android/AXISNet/Donasi Kuota/Button - KEMBALI KE HOME",
+      "ios": "",
+      "web":""
+    }
+}

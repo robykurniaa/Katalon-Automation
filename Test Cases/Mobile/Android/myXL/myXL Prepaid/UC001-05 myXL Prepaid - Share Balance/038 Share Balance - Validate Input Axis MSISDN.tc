@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>038 Share Balance - Validate Input Axis MSISDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bdde06b7-37a1-4258-bae6-dbc7954802aa</testCaseGuid>
+</TestCaseEntity>

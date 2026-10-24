@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Success Flash Top Up Free Fire using ShopeePay</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4487cf44-cec5-4b76-92ef-e83f81fe58df</testCaseGuid>
+</TestCaseEntity>

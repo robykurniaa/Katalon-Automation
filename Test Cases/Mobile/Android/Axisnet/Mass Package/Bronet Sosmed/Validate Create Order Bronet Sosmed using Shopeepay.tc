@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Create Order Bronet Sosmed using Shopeepay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab9216fc-42d7-48e0-863b-27878d4089ee</testCaseGuid>
+</TestCaseEntity>

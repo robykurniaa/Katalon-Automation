@@ -1,0 +1,17 @@
+{
+"Destination Number": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Transfer Pulsa/text Field - Nomor AXIS",
+      "ios": "",
+      "web":""
+    },
+"Pulsa Amount - 5000": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Transfer Pulsa/Pulsa Amount - 5000",
+      "ios": "",
+      "web":""
+    },
+"Transfer Pulsa Invalid Number": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Transfer Pulsa/Msisdn Rejection - Nomor telepon tidak sesuai",
+      "ios": "",
+      "web":""
+    } 
+ }

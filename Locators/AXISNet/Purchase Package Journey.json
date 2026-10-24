@@ -1,0 +1,75 @@
+{
+"Button Aktifkan": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Journey Purchase Package/Button - Aktifkan",
+      "ios": "",
+      "web":""
+    },
+"is Gifting": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Journey Purchase Package/Aktivasi Untuk",
+      "ios": "",
+      "web":""
+    },   
+"Text View Insuff Balance": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Journey Purchase Package/TextView - Pulsa kamu tidak mencukupi",
+      "ios": "",
+      "web":""
+    },
+"Button Isi Pulsa": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Journey Purchase Package/Button - ISI PULSA",
+      "ios": "",
+      "web":""
+    },
+"Button Ganti Metode Aktivasi": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Journey Purchase Package/Button - GANTI METODE AKTIVASI",
+      "ios": "",
+      "web":""
+    },
+"Button Lanjut": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Button/Button - LANJUT",
+      "ios": "",
+      "web":""
+    },
+"Button Lanjut after Otp Trx": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Game Token/Button - LANJUT",
+      "ios": "",
+      "web":""
+    },
+"Forever Online Tab": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/MCCM/Tab - Forever Online",
+      "ios": "",
+      "web":""
+    },
+"Forever Online Pkg": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/MCCM/Forever Online Pkg 7D",
+      "ios": "",
+      "web":""
+    },
+ "Button Minta Bayarin": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Minta Bayarin/Button - MINTA BAYARIN",
+      "ios": "",
+      "web":""
+    },
+ "Button Oke, Lanjut": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Minta Bayarin/Button - OKE, LANJUT",
+      "ios": "",
+      "web":""
+    },
+    
+ "Button Share Qr": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Minta Bayarin/Button- BAGIKAN QRIS",
+      "ios": "",
+      "web":""
+    },
+    
+ "Gifting Button": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Gifting/Activation - Orang lain",
+      "ios": "",
+      "web":""
+    },
+ "Gifting Text Field": {
+      "android": "Object Repository/Mobile/Android/AXISNet New Object/Gifting/Text Field - B Number Msisdn",
+      "ios": "",
+      "web":""
+    },
+ 
+ }

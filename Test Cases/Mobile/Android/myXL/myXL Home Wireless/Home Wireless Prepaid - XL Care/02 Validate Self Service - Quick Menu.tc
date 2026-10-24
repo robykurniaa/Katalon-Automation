@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 Validate Self Service - Quick Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2b425ef-0527-46a1-b9d6-0caa0f992be4</testCaseGuid>
+</TestCaseEntity>
